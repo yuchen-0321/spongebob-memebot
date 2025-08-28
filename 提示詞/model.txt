@@ -1,0 +1,68 @@
+我正在開發一個深度學習專案，目標是訓練一個模型，將輸入的中文文字句子轉換為對應的語意向量。這個任務屬於「語意向量回歸任務」，以下是我需要你幫我撰寫的完整訓練程式。
+
+🧩 資料說明：
+訓練資料已前處理為每筆資料格式如下：
+
+python
+複製
+編輯
+samples = [
+    (["你", "說", "的", "話", "都", "好", "有", "道理", "我", "沒辦法", "反駁"], [0.125, -0.065, ..., 0.043]),  # 768 維向量
+    ...
+]
+第一個元素是經過斷詞的 token list（字詞級）
+
+第二個元素是對應的語意向量（由語意模型嵌入產生，長度為 768）
+
+🎯 模型目標：
+建立一個 BiLSTM + Attention 模型，輸入斷詞後的 token 序列，輸出與 ground truth 向量接近的 768 維向量。
+
+🔧 模型架構與訓練條件要求：
+Embedding 層：使用隨機初始化即可（可以固定詞彙表大小為前處理階段出現過的詞）
+
+主體架構：
+
+BiLSTM（雙向）
+
+Attention 機制（可選 dot-product 或 additive）
+
+Flatten 或 pooling 後進全連接層輸出 768 維向量
+
+輸出層：nn.Linear(...) 輸出 768 維向量，activation 可為 linear 或 relu
+
+Loss Function：
+
+使用 MSELoss（預設）
+
+可註解額外提供 cosine similarity loss 的版本
+
+Optimizer：Adam（lr=1e-3）
+
+訓練過程：
+
+使用 DataLoader 載入上述樣本
+
+每個 epoch 顯示訓練 loss
+
+訓練完成後儲存最佳模型（.pt）
+
+語言環境：使用 PyTorch 撰寫
+
+程式請模組化設計，包含：
+
+自定義 Dataset 類別
+
+自定義 Model 類別（使用 nn.Module）
+
+main() 函數中完成訓練流程與模型儲存
+
+📌 額外說明：
+無需使用預訓練 word embedding，可直接學習
+
+訓練樣本數約 500 筆
+
+最大輸入長度可設為 50，超過可截斷，不足補 0
+
+使用 nn.Embedding 配合詞彙表轉為 token_id 序列
+
+請幫我產出完整的 Python 檔案，命名為 semantic_regression_model.py，可直接訓練使用。

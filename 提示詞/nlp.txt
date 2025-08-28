@@ -1,0 +1,52 @@
+我正在開發一個深度學習專案，任務是將輸入文字轉換為語意向量，最後比對相似圖片。請幫我改寫附檔中的 nlp_processor.py，加入以下功能：
+
+✅ 目標功能更新：
+🔹 1. 建立與保存詞彙表：
+在第一次處理資料時，將所有斷詞過的 tokens 建立詞彙表 word2idx，並儲存為 vocab.json。
+
+詞彙表格式為 {token: index}，請保留 <PAD> = 0、<UNK> = 1。
+
+詞彙表儲存位置為：vocab.json
+
+🔹 2. 匯入已存在的詞彙表：
+加入參數 load_vocab=True，當 True 時會從 vocab.json 載入詞彙表，否則重新建立。
+
+🔹 3. 提供「tokens 轉 index」的函式：
+def tokens_to_ids(self, tokens: List[str]) -> List[int]：
+將 tokens 對應成 index，若詞不存在於詞彙表則轉為 <UNK>（1）
+
+🔹 4. 提供「單句輸入處理」：
+def process_user_input(self, text: str) -> Dict[str, Any]：
+
+自動 tokenize → tokens
+
+轉為 token ids
+
+回傳字典如下：
+
+python
+複製
+編輯
+{
+  "text": "你說的話都好有道理",
+  "tokens": ["你", "說", ...],
+  "token_ids": [2, 5, 8, ...],
+  "embedding": [0.12, -0.03, ...]  # JinaAI 向量
+}
+📁 檔案需求：
+請將程式模組化設計，保留原本的類別架構，新增下列功能即可。若詞彙表與資料都存在，就不需重新建立。
+
+🧪 測試說明：
+假設有一個使用者輸入 "我只是想好好說話"，程式可以這樣使用：
+
+python
+複製
+編輯
+nlp = NLPProcessor(load_vocab=True)
+result = nlp.process_user_input("我只是想好好說話")
+print(result["token_ids"])
+print(result["embedding"])
+📦 目的：
+這樣我可以將 token_ids 傳給訓練好的深度學習模型做預測，確保與訓練階段使用同一套詞彙表與 index 對應，避免 mismatch。
+
+請在原始 nlp_processor.py 基礎上進行修改，並產出新的版本，命名為 nlp_processor_v2.py。

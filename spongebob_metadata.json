@@ -1,0 +1,3313 @@
+{
+  "index_type": "HNSW",
+  "n_vectors": 472,
+  "dimension": 768,
+  "created_at": "2025-06-07T17:42:05.138641",
+  "source_metadata": "./vectors\\metadata.json",
+  "entries": [
+    {
+      "image_name": "一些烤牛肉 幾塊炸雞 披薩.jpg",
+      "vector_file": "一些烤牛肉 幾塊炸雞 披薩.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\一些烤牛肉 幾塊炸雞 披薩.npy",
+      "vector_dim": 768,
+      "image_path": "data\\一些烤牛肉 幾塊炸雞 披薩.jpg"
+    },
+    {
+      "image_name": "一點都不好笑.jpg",
+      "vector_file": "一點都不好笑.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\一點都不好笑.npy",
+      "vector_dim": 768,
+      "image_path": "data\\一點都不好笑.jpg"
+    },
+    {
+      "image_name": "三個 要不要隨便你.jpg",
+      "vector_file": "三個 要不要隨便你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\三個 要不要隨便你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\三個 要不要隨便你.jpg"
+    },
+    {
+      "image_name": "上課才八分鐘 我們已經學會數數了.jpg",
+      "vector_file": "上課才八分鐘 我們已經學會數數了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\上課才八分鐘 我們已經學會數數了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\上課才八分鐘 我們已經學會數數了.jpg"
+    },
+    {
+      "image_name": "不 我弄破了.jpg",
+      "vector_file": "不 我弄破了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不 我弄破了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不 我弄破了.jpg"
+    },
+    {
+      "image_name": "不 沒有人理我.jpg",
+      "vector_file": "不 沒有人理我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不 沒有人理我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不 沒有人理我.jpg"
+    },
+    {
+      "image_name": "不客氣.jpg",
+      "vector_file": "不客氣.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不客氣.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不客氣.jpg"
+    },
+    {
+      "image_name": "不是 我是派大星.jpg",
+      "vector_file": "不是 我是派大星.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不是 我是派大星.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不是 我是派大星.jpg"
+    },
+    {
+      "image_name": "不是 是夜光閃亮亮復仇鬼.jpg",
+      "vector_file": "不是 是夜光閃亮亮復仇鬼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不是 是夜光閃亮亮復仇鬼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不是 是夜光閃亮亮復仇鬼.jpg"
+    },
+    {
+      "image_name": "不是啦，我是派大星.jpg",
+      "vector_file": "不是啦，我是派大星.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不是啦，我是派大星.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不是啦，我是派大星.jpg"
+    },
+    {
+      "image_name": "不求求你 不要打我.jpg",
+      "vector_file": "不求求你 不要打我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不求求你 不要打我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不求求你 不要打我.jpg"
+    },
+    {
+      "image_name": "不然你想怎麼樣啊.jpg",
+      "vector_file": "不然你想怎麼樣啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不然你想怎麼樣啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不然你想怎麼樣啊.jpg"
+    },
+    {
+      "image_name": "不用了，球送給你好了.jpg",
+      "vector_file": "不用了，球送給你好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不用了，球送給你好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不用了，球送給你好了.jpg"
+    },
+    {
+      "image_name": "不知道.jpg",
+      "vector_file": "不知道.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不知道.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不知道.jpg"
+    },
+    {
+      "image_name": "不良醜女.jpg",
+      "vector_file": "不良醜女.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不良醜女.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不良醜女.jpg"
+    },
+    {
+      "image_name": "不要.jpg",
+      "vector_file": "不要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要.jpg"
+    },
+    {
+      "image_name": "不要偷我的人生了.jpg",
+      "vector_file": "不要偷我的人生了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要偷我的人生了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要偷我的人生了.jpg"
+    },
+    {
+      "image_name": "不要吵.jpg",
+      "vector_file": "不要吵.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要吵.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要吵.jpg"
+    },
+    {
+      "image_name": "不要管動機了 說嗨.jpg",
+      "vector_file": "不要管動機了 說嗨.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要管動機了 說嗨.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要管動機了 說嗨.jpg"
+    },
+    {
+      "image_name": "不要說，那只會讓他更難過.jpg",
+      "vector_file": "不要說，那只會讓他更難過.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要說，那只會讓他更難過.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要說，那只會讓他更難過.jpg"
+    },
+    {
+      "image_name": "不要那麼說嘛.jpg",
+      "vector_file": "不要那麼說嘛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要那麼說嘛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要那麼說嘛.jpg"
+    },
+    {
+      "image_name": "不要難過，那只是一幅畫.jpg",
+      "vector_file": "不要難過，那只是一幅畫.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不要難過，那只是一幅畫.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不要難過，那只是一幅畫.jpg"
+    },
+    {
+      "image_name": "不過他哭成那樣 一定是因為有人欺負他.jpg",
+      "vector_file": "不過他哭成那樣 一定是因為有人欺負他.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不過他哭成那樣 一定是因為有人欺負他.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不過他哭成那樣 一定是因為有人欺負他.jpg"
+    },
+    {
+      "image_name": "不，我才是沙灘頭號大敗類.jpg",
+      "vector_file": "不，我才是沙灘頭號大敗類.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\不，我才是沙灘頭號大敗類.npy",
+      "vector_dim": 768,
+      "image_path": "data\\不，我才是沙灘頭號大敗類.jpg"
+    },
+    {
+      "image_name": "乾脆把我送上斷頭台去好了.jpg",
+      "vector_file": "乾脆把我送上斷頭台去好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\乾脆把我送上斷頭台去好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\乾脆把我送上斷頭台去好了.jpg"
+    },
+    {
+      "image_name": "人生就是不公平，早點習慣吧.jpg",
+      "vector_file": "人生就是不公平，早點習慣吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\人生就是不公平，早點習慣吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\人生就是不公平，早點習慣吧.jpg"
+    },
+    {
+      "image_name": "什麼叫嚇人 這才叫嚇人.jpg",
+      "vector_file": "什麼叫嚇人 這才叫嚇人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\什麼叫嚇人 這才叫嚇人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\什麼叫嚇人 這才叫嚇人.jpg"
+    },
+    {
+      "image_name": "今天很嗆是吧.jpg",
+      "vector_file": "今天很嗆是吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\今天很嗆是吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\今天很嗆是吧.jpg"
+    },
+    {
+      "image_name": "今天是不是你最美好的一天並不重要.jpg",
+      "vector_file": "今天是不是你最美好的一天並不重要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\今天是不是你最美好的一天並不重要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\今天是不是你最美好的一天並不重要.jpg"
+    },
+    {
+      "image_name": "今晚準備要去瘋狂一下了嗎.jpg",
+      "vector_file": "今晚準備要去瘋狂一下了嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\今晚準備要去瘋狂一下了嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\今晚準備要去瘋狂一下了嗎.jpg"
+    },
+    {
+      "image_name": "他一個人好無助.jpg",
+      "vector_file": "他一個人好無助.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他一個人好無助.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他一個人好無助.jpg"
+    },
+    {
+      "image_name": "他們叫我章魚情聖 不是叫假的哦.jpg",
+      "vector_file": "他們叫我章魚情聖 不是叫假的哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他們叫我章魚情聖 不是叫假的哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他們叫我章魚情聖 不是叫假的哦.jpg"
+    },
+    {
+      "image_name": "他們在笑什麼.jpg",
+      "vector_file": "他們在笑什麼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他們在笑什麼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他們在笑什麼.jpg"
+    },
+    {
+      "image_name": "他們還說 我什麼事情都做不好呢.jpg",
+      "vector_file": "他們還說 我什麼事情都做不好呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他們還說 我什麼事情都做不好呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他們還說 我什麼事情都做不好呢.jpg"
+    },
+    {
+      "image_name": "他又在鬼叫些什麼.jpg",
+      "vector_file": "他又在鬼叫些什麼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他又在鬼叫些什麼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他又在鬼叫些什麼.jpg"
+    },
+    {
+      "image_name": "他只是嫉妒我過著光鮮亮麗的新生活.jpg",
+      "vector_file": "他只是嫉妒我過著光鮮亮麗的新生活.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他只是嫉妒我過著光鮮亮麗的新生活.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他只是嫉妒我過著光鮮亮麗的新生活.jpg"
+    },
+    {
+      "image_name": "他回來了.jpg",
+      "vector_file": "他回來了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他回來了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他回來了.jpg"
+    },
+    {
+      "image_name": "他好可憐喔.jpg",
+      "vector_file": "他好可憐喔.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他好可憐喔.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他好可憐喔.jpg"
+    },
+    {
+      "image_name": "他怎麼了 腦袋壞掉了.jpg",
+      "vector_file": "他怎麼了 腦袋壞掉了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他怎麼了 腦袋壞掉了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他怎麼了 腦袋壞掉了.jpg"
+    },
+    {
+      "image_name": "他擁有鋼鐵的意志.jpg",
+      "vector_file": "他擁有鋼鐵的意志.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他擁有鋼鐵的意志.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他擁有鋼鐵的意志.jpg"
+    },
+    {
+      "image_name": "他是不是有問題.jpg",
+      "vector_file": "他是不是有問題.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他是不是有問題.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他是不是有問題.jpg"
+    },
+    {
+      "image_name": "他有一點...天分.jpg",
+      "vector_file": "他有一點...天分.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他有一點...天分.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他有一點...天分.jpg"
+    },
+    {
+      "image_name": "他的頭被兩顆椰子砸到了.jpg",
+      "vector_file": "他的頭被兩顆椰子砸到了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他的頭被兩顆椰子砸到了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他的頭被兩顆椰子砸到了.jpg"
+    },
+    {
+      "image_name": "他真是個英雄好漢.jpg",
+      "vector_file": "他真是個英雄好漢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他真是個英雄好漢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他真是個英雄好漢.jpg"
+    },
+    {
+      "image_name": "他說我們英俊瀟灑.jpg",
+      "vector_file": "他說我們英俊瀟灑.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\他說我們英俊瀟灑.npy",
+      "vector_dim": 768,
+      "image_path": "data\\他說我們英俊瀟灑.jpg"
+    },
+    {
+      "image_name": "作夢.jpg",
+      "vector_file": "作夢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\作夢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\作夢.jpg"
+    },
+    {
+      "image_name": "你一定要丟掉你的理性才能夠跟我一樣.jpg",
+      "vector_file": "你一定要丟掉你的理性才能夠跟我一樣.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你一定要丟掉你的理性才能夠跟我一樣.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你一定要丟掉你的理性才能夠跟我一樣.jpg"
+    },
+    {
+      "image_name": "你一定要幫我查出鈴鈴聲哪裡來的.jpg",
+      "vector_file": "你一定要幫我查出鈴鈴聲哪裡來的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你一定要幫我查出鈴鈴聲哪裡來的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你一定要幫我查出鈴鈴聲哪裡來的.jpg"
+    },
+    {
+      "image_name": "你不能待在黑暗中，兄弟.jpg",
+      "vector_file": "你不能待在黑暗中，兄弟.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你不能待在黑暗中，兄弟.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你不能待在黑暗中，兄弟.jpg"
+    },
+    {
+      "image_name": "你不能老是靠外表評斷每一個人.jpg",
+      "vector_file": "你不能老是靠外表評斷每一個人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你不能老是靠外表評斷每一個人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你不能老是靠外表評斷每一個人.jpg"
+    },
+    {
+      "image_name": "你不要逼我.jpg",
+      "vector_file": "你不要逼我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你不要逼我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你不要逼我.jpg"
+    },
+    {
+      "image_name": "你也不要想要擁有.jpg",
+      "vector_file": "你也不要想要擁有.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你也不要想要擁有.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你也不要想要擁有.jpg"
+    },
+    {
+      "image_name": "你什麼時候才要離開你的幻想小世界啊.jpg",
+      "vector_file": "你什麼時候才要離開你的幻想小世界啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你什麼時候才要離開你的幻想小世界啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你什麼時候才要離開你的幻想小世界啊.jpg"
+    },
+    {
+      "image_name": "你以前是個可怕的厲鬼.jpg",
+      "vector_file": "你以前是個可怕的厲鬼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你以前是個可怕的厲鬼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你以前是個可怕的厲鬼.jpg"
+    },
+    {
+      "image_name": "你們一定以為我很笨吧.jpg",
+      "vector_file": "你們一定以為我很笨吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們一定以為我很笨吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們一定以為我很笨吧.jpg"
+    },
+    {
+      "image_name": "你們兩個好像都忘了誰才是真正的贏家.jpg",
+      "vector_file": "你們兩個好像都忘了誰才是真正的贏家.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們兩個好像都忘了誰才是真正的贏家.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們兩個好像都忘了誰才是真正的贏家.jpg"
+    },
+    {
+      "image_name": "你們到底有沒有大腦啊.jpg",
+      "vector_file": "你們到底有沒有大腦啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們到底有沒有大腦啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們到底有沒有大腦啊.jpg"
+    },
+    {
+      "image_name": "你們又在耍什麼白癡.jpg",
+      "vector_file": "你們又在耍什麼白癡.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們又在耍什麼白癡.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們又在耍什麼白癡.jpg"
+    },
+    {
+      "image_name": "你們應該感到羞恥.jpg",
+      "vector_file": "你們應該感到羞恥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們應該感到羞恥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們應該感到羞恥.jpg"
+    },
+    {
+      "image_name": "你們給我記住.jpg",
+      "vector_file": "你們給我記住.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們給我記住.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們給我記住.jpg"
+    },
+    {
+      "image_name": "你們要繼續裝可愛哦.jpg",
+      "vector_file": "你們要繼續裝可愛哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你們要繼續裝可愛哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你們要繼續裝可愛哦.jpg"
+    },
+    {
+      "image_name": "你傷了我的心.jpg",
+      "vector_file": "你傷了我的心.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你傷了我的心.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你傷了我的心.jpg"
+    },
+    {
+      "image_name": "你再怎麼叫都沒用.jpg",
+      "vector_file": "你再怎麼叫都沒用.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你再怎麼叫都沒用.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你再怎麼叫都沒用.jpg"
+    },
+    {
+      "image_name": "你再這樣不知節制的亂灑鈔票.jpg",
+      "vector_file": "你再這樣不知節制的亂灑鈔票.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你再這樣不知節制的亂灑鈔票.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你再這樣不知節制的亂灑鈔票.jpg"
+    },
+    {
+      "image_name": "你到別的地方去耍笨好不好.jpg",
+      "vector_file": "你到別的地方去耍笨好不好.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你到別的地方去耍笨好不好.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你到別的地方去耍笨好不好.jpg"
+    },
+    {
+      "image_name": "你到底有什麼問題.jpg",
+      "vector_file": "你到底有什麼問題.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你到底有什麼問題.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你到底有什麼問題.jpg"
+    },
+    {
+      "image_name": "你又在搞什麼花樣啊.jpg",
+      "vector_file": "你又在搞什麼花樣啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你又在搞什麼花樣啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你又在搞什麼花樣啊.jpg"
+    },
+    {
+      "image_name": "你叫誰尖頭啊.jpg",
+      "vector_file": "你叫誰尖頭啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你叫誰尖頭啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你叫誰尖頭啊.jpg"
+    },
+    {
+      "image_name": "你喜歡嗎.jpg",
+      "vector_file": "你喜歡嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你喜歡嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你喜歡嗎.jpg"
+    },
+    {
+      "image_name": "你太可悲了.jpg",
+      "vector_file": "你太可悲了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你太可悲了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你太可悲了.jpg"
+    },
+    {
+      "image_name": "你太白目了吧.jpg",
+      "vector_file": "你太白目了吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你太白目了吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你太白目了吧.jpg"
+    },
+    {
+      "image_name": "你好很的心啊.jpg",
+      "vector_file": "你好很的心啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你好很的心啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你好很的心啊.jpg"
+    },
+    {
+      "image_name": "你好醜哦.jpg",
+      "vector_file": "你好醜哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你好醜哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你好醜哦.jpg"
+    },
+    {
+      "image_name": "你就是這樣感謝我的.jpg",
+      "vector_file": "你就是這樣感謝我的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你就是這樣感謝我的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你就是這樣感謝我的.jpg"
+    },
+    {
+      "image_name": "你很廉價.jpg",
+      "vector_file": "你很廉價.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你很廉價.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你很廉價.jpg"
+    },
+    {
+      "image_name": "你很需要看心理醫生.jpg",
+      "vector_file": "你很需要看心理醫生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你很需要看心理醫生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你很需要看心理醫生.jpg"
+    },
+    {
+      "image_name": "你得放棄那個銅板.jpg",
+      "vector_file": "你得放棄那個銅板.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你得放棄那個銅板.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你得放棄那個銅板.jpg"
+    },
+    {
+      "image_name": "你忘了我之前是怎麼跟你說的 小伙子.jpg",
+      "vector_file": "你忘了我之前是怎麼跟你說的 小伙子.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你忘了我之前是怎麼跟你說的 小伙子.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你忘了我之前是怎麼跟你說的 小伙子.jpg"
+    },
+    {
+      "image_name": "你怎麼這麼天真呢.jpg",
+      "vector_file": "你怎麼這麼天真呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你怎麼這麼天真呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你怎麼這麼天真呢.jpg"
+    },
+    {
+      "image_name": "你把我害得那麼慘 我一定要告你.jpg",
+      "vector_file": "你把我害得那麼慘 我一定要告你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你把我害得那麼慘 我一定要告你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你把我害得那麼慘 我一定要告你.jpg"
+    },
+    {
+      "image_name": "你把醜八怪病傳染給我了.jpg",
+      "vector_file": "你把醜八怪病傳染給我了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你把醜八怪病傳染給我了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你把醜八怪病傳染給我了.jpg"
+    },
+    {
+      "image_name": "你拿你的臭嘴去親你老媽啦.jpg",
+      "vector_file": "你拿你的臭嘴去親你老媽啦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你拿你的臭嘴去親你老媽啦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你拿你的臭嘴去親你老媽啦.jpg"
+    },
+    {
+      "image_name": "你是小時候摔壞腦袋了是嗎.jpg",
+      "vector_file": "你是小時候摔壞腦袋了是嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你是小時候摔壞腦袋了是嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你是小時候摔壞腦袋了是嗎.jpg"
+    },
+    {
+      "image_name": "你是整個海底世界最笨最呆的大白痴.jpg",
+      "vector_file": "你是整個海底世界最笨最呆的大白痴.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你是整個海底世界最笨最呆的大白痴.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你是整個海底世界最笨最呆的大白痴.jpg"
+    },
+    {
+      "image_name": "你是隻海底雞.jpg",
+      "vector_file": "你是隻海底雞.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你是隻海底雞.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你是隻海底雞.jpg"
+    },
+    {
+      "image_name": "你正在笑的是一個贏家.jpg",
+      "vector_file": "你正在笑的是一個贏家.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你正在笑的是一個贏家.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你正在笑的是一個贏家.jpg"
+    },
+    {
+      "image_name": "你比我還要大隻.jpg",
+      "vector_file": "你比我還要大隻.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你比我還要大隻.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你比我還要大隻.jpg"
+    },
+    {
+      "image_name": "你永遠都不能夠信任這種小人.jpg",
+      "vector_file": "你永遠都不能夠信任這種小人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你永遠都不能夠信任這種小人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你永遠都不能夠信任這種小人.jpg"
+    },
+    {
+      "image_name": "你準備要去瘋狂了嗎.jpg",
+      "vector_file": "你準備要去瘋狂了嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你準備要去瘋狂了嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你準備要去瘋狂了嗎.jpg"
+    },
+    {
+      "image_name": "你為什麼不問問神奇海螺呢.jpg",
+      "vector_file": "你為什麼不問問神奇海螺呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你為什麼不問問神奇海螺呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你為什麼不問問神奇海螺呢.jpg"
+    },
+    {
+      "image_name": "你照照鏡子.jpg",
+      "vector_file": "你照照鏡子.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你照照鏡子.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你照照鏡子.jpg"
+    },
+    {
+      "image_name": "你現在是在搞笑嗎.jpg",
+      "vector_file": "你現在是在搞笑嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你現在是在搞笑嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你現在是在搞笑嗎.jpg"
+    },
+    {
+      "image_name": "你現在是把我當成傻瓜是不是.jpg",
+      "vector_file": "你現在是把我當成傻瓜是不是.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你現在是把我當成傻瓜是不是.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你現在是把我當成傻瓜是不是.jpg"
+    },
+    {
+      "image_name": "你現在知道沒唸到大學有何下場了吧.jpg",
+      "vector_file": "你現在知道沒唸到大學有何下場了吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你現在知道沒唸到大學有何下場了吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你現在知道沒唸到大學有何下場了吧.jpg"
+    },
+    {
+      "image_name": "你當然無所謂了.jpg",
+      "vector_file": "你當然無所謂了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你當然無所謂了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你當然無所謂了.jpg"
+    },
+    {
+      "image_name": "你發現什麼了.jpg",
+      "vector_file": "你發現什麼了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你發現什麼了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你發現什麼了.jpg"
+    },
+    {
+      "image_name": "你的好消息呢.jpg",
+      "vector_file": "你的好消息呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你的好消息呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你的好消息呢.jpg"
+    },
+    {
+      "image_name": "你相信世界上居然有人不敢坐雲霄飛車嗎.jpg",
+      "vector_file": "你相信世界上居然有人不敢坐雲霄飛車嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你相信世界上居然有人不敢坐雲霄飛車嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你相信世界上居然有人不敢坐雲霄飛車嗎.jpg"
+    },
+    {
+      "image_name": "你看 我成功了.jpg",
+      "vector_file": "你看 我成功了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你看 我成功了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你看 我成功了.jpg"
+    },
+    {
+      "image_name": "你看我們Man不Man.jpg",
+      "vector_file": "你看我們Man不Man.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你看我們Man不Man.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你看我們Man不Man.jpg"
+    },
+    {
+      "image_name": "你真的完全沒有大腦.jpg",
+      "vector_file": "你真的完全沒有大腦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你真的完全沒有大腦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你真的完全沒有大腦.jpg"
+    },
+    {
+      "image_name": "你真的很臭.jpg",
+      "vector_file": "你真的很臭.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你真的很臭.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你真的很臭.jpg"
+    },
+    {
+      "image_name": "你知道有我這種朋友，你有多幸運嗎.jpg",
+      "vector_file": "你知道有我這種朋友，你有多幸運嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你知道有我這種朋友，你有多幸運嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你知道有我這種朋友，你有多幸運嗎.jpg"
+    },
+    {
+      "image_name": "你確定你像要放棄天才跟智慧 就為了再跟我做朋友嗎.jpg",
+      "vector_file": "你確定你像要放棄天才跟智慧 就為了再跟我做朋友嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你確定你像要放棄天才跟智慧 就為了再跟我做朋友嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你確定你像要放棄天才跟智慧 就為了再跟我做朋友嗎.jpg"
+    },
+    {
+      "image_name": "你老婆爆掉了.jpg",
+      "vector_file": "你老婆爆掉了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你老婆爆掉了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你老婆爆掉了.jpg"
+    },
+    {
+      "image_name": "你要我們的命啊.jpg",
+      "vector_file": "你要我們的命啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你要我們的命啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你要我們的命啊.jpg"
+    },
+    {
+      "image_name": "你要開始上好人課程了嗎.jpg",
+      "vector_file": "你要開始上好人課程了嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你要開始上好人課程了嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你要開始上好人課程了嗎.jpg"
+    },
+    {
+      "image_name": "你該不會還在生氣吧.jpg",
+      "vector_file": "你該不會還在生氣吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你該不會還在生氣吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你該不會還在生氣吧.jpg"
+    },
+    {
+      "image_name": "你說得有道理耶.jpg",
+      "vector_file": "你說得有道理耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你說得有道理耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你說得有道理耶.jpg"
+    },
+    {
+      "image_name": "你說的對 我完全贊同.jpg",
+      "vector_file": "你說的對 我完全贊同.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你說的對 我完全贊同.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你說的對 我完全贊同.jpg"
+    },
+    {
+      "image_name": "你超遜的.jpg",
+      "vector_file": "你超遜的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你超遜的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你超遜的.jpg"
+    },
+    {
+      "image_name": "你這交易真不錯 章魚哥.jpg",
+      "vector_file": "你這交易真不錯 章魚哥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你這交易真不錯 章魚哥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你這交易真不錯 章魚哥.jpg"
+    },
+    {
+      "image_name": "你這個小色鬼.jpg",
+      "vector_file": "你這個小色鬼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你這個小色鬼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你這個小色鬼.jpg"
+    },
+    {
+      "image_name": "你這個虐待勞工的壞蛋.jpg",
+      "vector_file": "你這個虐待勞工的壞蛋.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你這個虐待勞工的壞蛋.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你這個虐待勞工的壞蛋.jpg"
+    },
+    {
+      "image_name": "你這個變態.jpg",
+      "vector_file": "你這個變態.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你這個變態.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你這個變態.jpg"
+    },
+    {
+      "image_name": "你這麼無能又窩囊.jpg",
+      "vector_file": "你這麼無能又窩囊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你這麼無能又窩囊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你這麼無能又窩囊.jpg"
+    },
+    {
+      "image_name": "你還不懂嗎你這甲殼類大頭呆.jpg",
+      "vector_file": "你還不懂嗎你這甲殼類大頭呆.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你還不懂嗎你這甲殼類大頭呆.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你還不懂嗎你這甲殼類大頭呆.jpg"
+    },
+    {
+      "image_name": "你還可以耍狠哦.jpg",
+      "vector_file": "你還可以耍狠哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你還可以耍狠哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你還可以耍狠哦.jpg"
+    },
+    {
+      "image_name": "你鬧夠了沒有.jpg",
+      "vector_file": "你鬧夠了沒有.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\你鬧夠了沒有.npy",
+      "vector_dim": 768,
+      "image_path": "data\\你鬧夠了沒有.jpg"
+    },
+    {
+      "image_name": "來得快去得也快.jpg",
+      "vector_file": "來得快去得也快.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\來得快去得也快.npy",
+      "vector_dim": 768,
+      "image_path": "data\\來得快去得也快.jpg"
+    },
+    {
+      "image_name": "做起來沒有看裡來那麼容易.jpg",
+      "vector_file": "做起來沒有看裡來那麼容易.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\做起來沒有看裡來那麼容易.npy",
+      "vector_dim": 768,
+      "image_path": "data\\做起來沒有看裡來那麼容易.jpg"
+    },
+    {
+      "image_name": "兄弟 我可以幫你擦背.jpg",
+      "vector_file": "兄弟 我可以幫你擦背.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\兄弟 我可以幫你擦背.npy",
+      "vector_dim": 768,
+      "image_path": "data\\兄弟 我可以幫你擦背.jpg"
+    },
+    {
+      "image_name": "兄弟 要搭便車嗎.jpg",
+      "vector_file": "兄弟 要搭便車嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\兄弟 要搭便車嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\兄弟 要搭便車嗎.jpg"
+    },
+    {
+      "image_name": "充實知識，武裝自己.jpg",
+      "vector_file": "充實知識，武裝自己.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\充實知識，武裝自己.npy",
+      "vector_dim": 768,
+      "image_path": "data\\充實知識，武裝自己.jpg"
+    },
+    {
+      "image_name": "再一次的，你跟我又要分開了.jpg",
+      "vector_file": "再一次的，你跟我又要分開了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\再一次的，你跟我又要分開了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\再一次的，你跟我又要分開了.jpg"
+    },
+    {
+      "image_name": "再摔一次 我沒看到.jpg",
+      "vector_file": "再摔一次 我沒看到.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\再摔一次 我沒看到.npy",
+      "vector_dim": 768,
+      "image_path": "data\\再摔一次 我沒看到.jpg"
+    },
+    {
+      "image_name": "再買更多卡.jpg",
+      "vector_file": "再買更多卡.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\再買更多卡.npy",
+      "vector_dim": 768,
+      "image_path": "data\\再買更多卡.jpg"
+    },
+    {
+      "image_name": "別想了，這機會是我的.jpg",
+      "vector_file": "別想了，這機會是我的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\別想了，這機會是我的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\別想了，這機會是我的.jpg"
+    },
+    {
+      "image_name": "加加減減幾分鐘.jpg",
+      "vector_file": "加加減減幾分鐘.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\加加減減幾分鐘.npy",
+      "vector_dim": 768,
+      "image_path": "data\\加加減減幾分鐘.jpg"
+    },
+    {
+      "image_name": "助人為快樂之本嘛.jpg",
+      "vector_file": "助人為快樂之本嘛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\助人為快樂之本嘛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\助人為快樂之本嘛.jpg"
+    },
+    {
+      "image_name": "勝利尖叫.jpg",
+      "vector_file": "勝利尖叫.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\勝利尖叫.npy",
+      "vector_dim": 768,
+      "image_path": "data\\勝利尖叫.jpg"
+    },
+    {
+      "image_name": "卡.jpg",
+      "vector_file": "卡.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\卡.npy",
+      "vector_dim": 768,
+      "image_path": "data\\卡.jpg"
+    },
+    {
+      "image_name": "原來你們兩個狼狽為奸.jpg",
+      "vector_file": "原來你們兩個狼狽為奸.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\原來你們兩個狼狽為奸.npy",
+      "vector_dim": 768,
+      "image_path": "data\\原來你們兩個狼狽為奸.jpg"
+    },
+    {
+      "image_name": "原來是他再鬧我們.jpg",
+      "vector_file": "原來是他再鬧我們.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\原來是他再鬧我們.npy",
+      "vector_dim": 768,
+      "image_path": "data\\原來是他再鬧我們.jpg"
+    },
+    {
+      "image_name": "原來這叫工作.jpg",
+      "vector_file": "原來這叫工作.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\原來這叫工作.npy",
+      "vector_dim": 768,
+      "image_path": "data\\原來這叫工作.jpg"
+    },
+    {
+      "image_name": "去做一件早就應該做的大事.jpg",
+      "vector_file": "去做一件早就應該做的大事.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\去做一件早就應該做的大事.npy",
+      "vector_dim": 768,
+      "image_path": "data\\去做一件早就應該做的大事.jpg"
+    },
+    {
+      "image_name": "去吃冰淇淋.jpg",
+      "vector_file": "去吃冰淇淋.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\去吃冰淇淋.npy",
+      "vector_dim": 768,
+      "image_path": "data\\去吃冰淇淋.jpg"
+    },
+    {
+      "image_name": "反正你又不喜歡我.jpg",
+      "vector_file": "反正你又不喜歡我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\反正你又不喜歡我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\反正你又不喜歡我.jpg"
+    },
+    {
+      "image_name": "叛徒.jpg",
+      "vector_file": "叛徒.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\叛徒.npy",
+      "vector_dim": 768,
+      "image_path": "data\\叛徒.jpg"
+    },
+    {
+      "image_name": "只有一個人比我還笨，就是你.jpg",
+      "vector_file": "只有一個人比我還笨，就是你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\只有一個人比我還笨，就是你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\只有一個人比我還笨，就是你.jpg"
+    },
+    {
+      "image_name": "只能娶一部電腦當老婆.jpg",
+      "vector_file": "只能娶一部電腦當老婆.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\只能娶一部電腦當老婆.npy",
+      "vector_dim": 768,
+      "image_path": "data\\只能娶一部電腦當老婆.jpg"
+    },
+    {
+      "image_name": "只要呼吸就好.jpg",
+      "vector_file": "只要呼吸就好.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\只要呼吸就好.npy",
+      "vector_dim": 768,
+      "image_path": "data\\只要呼吸就好.jpg"
+    },
+    {
+      "image_name": "叫我派大星教授加博士先生.jpg",
+      "vector_file": "叫我派大星教授加博士先生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\叫我派大星教授加博士先生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\叫我派大星教授加博士先生.jpg"
+    },
+    {
+      "image_name": "可是... 我叫你吹.jpg",
+      "vector_file": "可是... 我叫你吹.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是... 我叫你吹.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是... 我叫你吹.jpg"
+    },
+    {
+      "image_name": "可是...可...可是.jpg",
+      "vector_file": "可是...可...可是.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是...可...可是.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是...可...可是.jpg"
+    },
+    {
+      "image_name": "可是你要學會放下心中的重擔.jpg",
+      "vector_file": "可是你要學會放下心中的重擔.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是你要學會放下心中的重擔.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是你要學會放下心中的重擔.jpg"
+    },
+    {
+      "image_name": "可是只要你和我同心協力.jpg",
+      "vector_file": "可是只要你和我同心協力.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是只要你和我同心協力.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是只要你和我同心協力.jpg"
+    },
+    {
+      "image_name": "可是我以前可是個大帥哥.jpg",
+      "vector_file": "可是我以前可是個大帥哥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是我以前可是個大帥哥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是我以前可是個大帥哥.jpg"
+    },
+    {
+      "image_name": "可是，它好閃亮.jpg",
+      "vector_file": "可是，它好閃亮.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\可是，它好閃亮.npy",
+      "vector_dim": 768,
+      "image_path": "data\\可是，它好閃亮.jpg"
+    },
+    {
+      "image_name": "吹一次兩毛五 先生.jpg",
+      "vector_file": "吹一次兩毛五 先生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\吹一次兩毛五 先生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\吹一次兩毛五 先生.jpg"
+    },
+    {
+      "image_name": "吹得好棒 章魚哥.jpg",
+      "vector_file": "吹得好棒 章魚哥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\吹得好棒 章魚哥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\吹得好棒 章魚哥.jpg"
+    },
+    {
+      "image_name": "嗶.jpg",
+      "vector_file": "嗶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\嗶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\嗶.jpg"
+    },
+    {
+      "image_name": "因為兇兇肥婆叫你去坐 快點.jpg",
+      "vector_file": "因為兇兇肥婆叫你去坐 快點.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\因為兇兇肥婆叫你去坐 快點.npy",
+      "vector_dim": 768,
+      "image_path": "data\\因為兇兇肥婆叫你去坐 快點.jpg"
+    },
+    {
+      "image_name": "因為我們擁有神奇的想像力.jpg",
+      "vector_file": "因為我們擁有神奇的想像力.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\因為我們擁有神奇的想像力.npy",
+      "vector_dim": 768,
+      "image_path": "data\\因為我們擁有神奇的想像力.jpg"
+    },
+    {
+      "image_name": "因為我已經砍斷我的雙手了.jpg",
+      "vector_file": "因為我已經砍斷我的雙手了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\因為我已經砍斷我的雙手了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\因為我已經砍斷我的雙手了.jpg"
+    },
+    {
+      "image_name": "因為我的褲子又破了.jpg",
+      "vector_file": "因為我的褲子又破了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\因為我的褲子又破了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\因為我的褲子又破了.jpg"
+    },
+    {
+      "image_name": "因為笨蛋永遠都不知道自己到底有多笨多呆.jpg",
+      "vector_file": "因為笨蛋永遠都不知道自己到底有多笨多呆.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\因為笨蛋永遠都不知道自己到底有多笨多呆.npy",
+      "vector_dim": 768,
+      "image_path": "data\\因為笨蛋永遠都不知道自己到底有多笨多呆.jpg"
+    },
+    {
+      "image_name": "在紅綠燈前不能做什麼.jpg",
+      "vector_file": "在紅綠燈前不能做什麼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\在紅綠燈前不能做什麼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\在紅綠燈前不能做什麼.jpg"
+    },
+    {
+      "image_name": "在這裡要怎麼做才能吃到大雞腿.jpg",
+      "vector_file": "在這裡要怎麼做才能吃到大雞腿.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\在這裡要怎麼做才能吃到大雞腿.npy",
+      "vector_dim": 768,
+      "image_path": "data\\在這裡要怎麼做才能吃到大雞腿.jpg"
+    },
+    {
+      "image_name": "多學著點.jpg",
+      "vector_file": "多學著點.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\多學著點.npy",
+      "vector_dim": 768,
+      "image_path": "data\\多學著點.jpg"
+    },
+    {
+      "image_name": "夠了 我不幹了.jpg",
+      "vector_file": "夠了 我不幹了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\夠了 我不幹了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\夠了 我不幹了.jpg"
+    },
+    {
+      "image_name": "大驚喜.jpg",
+      "vector_file": "大驚喜.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\大驚喜.npy",
+      "vector_dim": 768,
+      "image_path": "data\\大驚喜.jpg"
+    },
+    {
+      "image_name": "天空碎片掉下來了 世界末日啊.jpg",
+      "vector_file": "天空碎片掉下來了 世界末日啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\天空碎片掉下來了 世界末日啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\天空碎片掉下來了 世界末日啊.jpg"
+    },
+    {
+      "image_name": "太勁爆了.jpg",
+      "vector_file": "太勁爆了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\太勁爆了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\太勁爆了.jpg"
+    },
+    {
+      "image_name": "太棒了，那我們六點鐘見.jpg",
+      "vector_file": "太棒了，那我們六點鐘見.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\太棒了，那我們六點鐘見.npy",
+      "vector_dim": 768,
+      "image_path": "data\\太棒了，那我們六點鐘見.jpg"
+    },
+    {
+      "image_name": "她會不會唱鬆餅人那首歌.jpg",
+      "vector_file": "她會不會唱鬆餅人那首歌.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\她會不會唱鬆餅人那首歌.npy",
+      "vector_dim": 768,
+      "image_path": "data\\她會不會唱鬆餅人那首歌.jpg"
+    },
+    {
+      "image_name": "她要去追求更遠大的夢想.jpg",
+      "vector_file": "她要去追求更遠大的夢想.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\她要去追求更遠大的夢想.npy",
+      "vector_dim": 768,
+      "image_path": "data\\她要去追求更遠大的夢想.jpg"
+    },
+    {
+      "image_name": "好了 不要再鬧了.jpg",
+      "vector_file": "好了 不要再鬧了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好了 不要再鬧了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好了 不要再鬧了.jpg"
+    },
+    {
+      "image_name": "好了 我們就來個君子之爭吧.jpg",
+      "vector_file": "好了 我們就來個君子之爭吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好了 我們就來個君子之爭吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好了 我們就來個君子之爭吧.jpg"
+    },
+    {
+      "image_name": "好了各位 我帥不帥啊.jpg",
+      "vector_file": "好了各位 我帥不帥啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好了各位 我帥不帥啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好了各位 我帥不帥啊.jpg"
+    },
+    {
+      "image_name": "好了，尖頭給我納命來.jpg",
+      "vector_file": "好了，尖頭給我納命來.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好了，尖頭給我納命來.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好了，尖頭給我納命來.jpg"
+    },
+    {
+      "image_name": "好像有人在偷聽我們說話.jpg",
+      "vector_file": "好像有人在偷聽我們說話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好像有人在偷聽我們說話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好像有人在偷聽我們說話.jpg"
+    },
+    {
+      "image_name": "好可憐哦.jpg",
+      "vector_file": "好可憐哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好可憐哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好可憐哦.jpg"
+    },
+    {
+      "image_name": "好可憐，我幫他在傷口上灑點鹽吧.jpg",
+      "vector_file": "好可憐，我幫他在傷口上灑點鹽吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好可憐，我幫他在傷口上灑點鹽吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好可憐，我幫他在傷口上灑點鹽吧.jpg"
+    },
+    {
+      "image_name": "好吃.jpg",
+      "vector_file": "好吃.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好吃.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好吃.jpg"
+    },
+    {
+      "image_name": "好吧 目前沒問題.jpg",
+      "vector_file": "好吧 目前沒問題.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好吧 目前沒問題.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好吧 目前沒問題.jpg"
+    },
+    {
+      "image_name": "好吵哦.jpg",
+      "vector_file": "好吵哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好吵哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好吵哦.jpg"
+    },
+    {
+      "image_name": "好啦，明天再說吧.jpg",
+      "vector_file": "好啦，明天再說吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好啦，明天再說吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好啦，明天再說吧.jpg"
+    },
+    {
+      "image_name": "好奇怪 那不是我的名字.jpg",
+      "vector_file": "好奇怪 那不是我的名字.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好奇怪 那不是我的名字.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好奇怪 那不是我的名字.jpg"
+    },
+    {
+      "image_name": "好帥哦.jpg",
+      "vector_file": "好帥哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好帥哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好帥哦.jpg"
+    },
+    {
+      "image_name": "好恐怖哦.jpg",
+      "vector_file": "好恐怖哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好恐怖哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好恐怖哦.jpg"
+    },
+    {
+      "image_name": "好棒，三點了.jpg",
+      "vector_file": "好棒，三點了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好棒，三點了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好棒，三點了.jpg"
+    },
+    {
+      "image_name": "好棒，太好了.jpg",
+      "vector_file": "好棒，太好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好棒，太好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好棒，太好了.jpg"
+    },
+    {
+      "image_name": "好重的油味.jpg",
+      "vector_file": "好重的油味.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好重的油味.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好重的油味.jpg"
+    },
+    {
+      "image_name": "好，我準備好了.jpg",
+      "vector_file": "好，我準備好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\好，我準備好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\好，我準備好了.jpg"
+    },
+    {
+      "image_name": "妳不只活了下來，還活得很漂亮.jpg",
+      "vector_file": "妳不只活了下來，還活得很漂亮.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\妳不只活了下來，還活得很漂亮.npy",
+      "vector_dim": 768,
+      "image_path": "data\\妳不只活了下來，還活得很漂亮.jpg"
+    },
+    {
+      "image_name": "它是顆美麗的大石頭.jpg",
+      "vector_file": "它是顆美麗的大石頭.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\它是顆美麗的大石頭.npy",
+      "vector_dim": 768,
+      "image_path": "data\\它是顆美麗的大石頭.jpg"
+    },
+    {
+      "image_name": "它說...裡面好黑哦.jpg",
+      "vector_file": "它說...裡面好黑哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\它說...裡面好黑哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\它說...裡面好黑哦.jpg"
+    },
+    {
+      "image_name": "完美.jpg",
+      "vector_file": "完美.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\完美.npy",
+      "vector_dim": 768,
+      "image_path": "data\\完美.jpg"
+    },
+    {
+      "image_name": "對了 我好像違反了亂踢箱子的法律.jpg",
+      "vector_file": "對了 我好像違反了亂踢箱子的法律.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\對了 我好像違反了亂踢箱子的法律.npy",
+      "vector_dim": 768,
+      "image_path": "data\\對了 我好像違反了亂踢箱子的法律.jpg"
+    },
+    {
+      "image_name": "對啊，派大星又是誰.jpg",
+      "vector_file": "對啊，派大星又是誰.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\對啊，派大星又是誰.npy",
+      "vector_dim": 768,
+      "image_path": "data\\對啊，派大星又是誰.jpg"
+    },
+    {
+      "image_name": "對，他還在生氣.jpg",
+      "vector_file": "對，他還在生氣.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\對，他還在生氣.npy",
+      "vector_dim": 768,
+      "image_path": "data\\對，他還在生氣.jpg"
+    },
+    {
+      "image_name": "小朋友 我跟你們一起玩好不好.jpg",
+      "vector_file": "小朋友 我跟你們一起玩好不好.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\小朋友 我跟你們一起玩好不好.npy",
+      "vector_dim": 768,
+      "image_path": "data\\小朋友 我跟你們一起玩好不好.jpg"
+    },
+    {
+      "image_name": "小朋友 發動你的引擎.jpg",
+      "vector_file": "小朋友 發動你的引擎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\小朋友 發動你的引擎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\小朋友 發動你的引擎.jpg"
+    },
+    {
+      "image_name": "小朋友 請你站起來自我介紹一下好嗎.jpg",
+      "vector_file": "小朋友 請你站起來自我介紹一下好嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\小朋友 請你站起來自我介紹一下好嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\小朋友 請你站起來自我介紹一下好嗎.jpg"
+    },
+    {
+      "image_name": "小朋友，這就是我的宿命.jpg",
+      "vector_file": "小朋友，這就是我的宿命.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\小朋友，這就是我的宿命.npy",
+      "vector_dim": 768,
+      "image_path": "data\\小朋友，這就是我的宿命.jpg"
+    },
+    {
+      "image_name": "尖叫.jpg",
+      "vector_file": "尖叫.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\尖叫.npy",
+      "vector_dim": 768,
+      "image_path": "data\\尖叫.jpg"
+    },
+    {
+      "image_name": "就是這樣啊.jpg",
+      "vector_file": "就是這樣啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\就是這樣啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\就是這樣啊.jpg"
+    },
+    {
+      "image_name": "就算我不恨你，我還是超恨你.jpg",
+      "vector_file": "就算我不恨你，我還是超恨你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\就算我不恨你，我還是超恨你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\就算我不恨你，我還是超恨你.jpg"
+    },
+    {
+      "image_name": "崇拜偶像是很不健康的.jpg",
+      "vector_file": "崇拜偶像是很不健康的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\崇拜偶像是很不健康的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\崇拜偶像是很不健康的.jpg"
+    },
+    {
+      "image_name": "幹嘛 我想到比24還要好笑的笑話.jpg",
+      "vector_file": "幹嘛 我想到比24還要好笑的笑話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\幹嘛 我想到比24還要好笑的笑話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\幹嘛 我想到比24還要好笑的笑話.jpg"
+    },
+    {
+      "image_name": "很多年以前我也接受過挑戰.jpg",
+      "vector_file": "很多年以前我也接受過挑戰.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\很多年以前我也接受過挑戰.npy",
+      "vector_dim": 768,
+      "image_path": "data\\很多年以前我也接受過挑戰.jpg"
+    },
+    {
+      "image_name": "很快就會沒錢了，然後....jpg",
+      "vector_file": "很快就會沒錢了，然後....npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\很快就會沒錢了，然後....npy",
+      "vector_dim": 768,
+      "image_path": "data\\很快就會沒錢了，然後....jpg"
+    },
+    {
+      "image_name": "很舒服啊.jpg",
+      "vector_file": "很舒服啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\很舒服啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\很舒服啊.jpg"
+    },
+    {
+      "image_name": "很高興認識你，兄弟.jpg",
+      "vector_file": "很高興認識你，兄弟.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\很高興認識你，兄弟.npy",
+      "vector_dim": 768,
+      "image_path": "data\\很高興認識你，兄弟.jpg"
+    },
+    {
+      "image_name": "心臟狂跳，全身狂抖.jpg",
+      "vector_file": "心臟狂跳，全身狂抖.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\心臟狂跳，全身狂抖.npy",
+      "vector_dim": 768,
+      "image_path": "data\\心臟狂跳，全身狂抖.jpg"
+    },
+    {
+      "image_name": "快 跳進我們的野海熊防護圈.jpg",
+      "vector_file": "快 跳進我們的野海熊防護圈.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\快 跳進我們的野海熊防護圈.npy",
+      "vector_dim": 768,
+      "image_path": "data\\快 跳進我們的野海熊防護圈.jpg"
+    },
+    {
+      "image_name": "快告訴老實說熊熊.jpg",
+      "vector_file": "快告訴老實說熊熊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\快告訴老實說熊熊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\快告訴老實說熊熊.jpg"
+    },
+    {
+      "image_name": "怎麼可能會有人說出這句沒有意義的話呢.jpg",
+      "vector_file": "怎麼可能會有人說出這句沒有意義的話呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\怎麼可能會有人說出這句沒有意義的話呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\怎麼可能會有人說出這句沒有意義的話呢.jpg"
+    },
+    {
+      "image_name": "想再看一次嗎.jpg",
+      "vector_file": "想再看一次嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\想再看一次嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\想再看一次嗎.jpg"
+    },
+    {
+      "image_name": "想買巧克力嗎.jpg",
+      "vector_file": "想買巧克力嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\想買巧克力嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\想買巧克力嗎.jpg"
+    },
+    {
+      "image_name": "我 我沒有針對任何人說什麼話.jpg",
+      "vector_file": "我 我沒有針對任何人說什麼話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我 我沒有針對任何人說什麼話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我 我沒有針對任何人說什麼話.jpg"
+    },
+    {
+      "image_name": "我...我在說什麼.jpg",
+      "vector_file": "我...我在說什麼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我...我在說什麼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我...我在說什麼.jpg"
+    },
+    {
+      "image_name": "我一定要再接再厲.jpg",
+      "vector_file": "我一定要再接再厲.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我一定要再接再厲.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我一定要再接再厲.jpg"
+    },
+    {
+      "image_name": "我一整天都陪著你 做一些無聊無趣的蠢事.jpg",
+      "vector_file": "我一整天都陪著你 做一些無聊無趣的蠢事.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我一整天都陪著你 做一些無聊無趣的蠢事.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我一整天都陪著你 做一些無聊無趣的蠢事.jpg"
+    },
+    {
+      "image_name": "我一直不知道怎麼綁鞋帶.jpg",
+      "vector_file": "我一直不知道怎麼綁鞋帶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我一直不知道怎麼綁鞋帶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我一直不知道怎麼綁鞋帶.jpg"
+    },
+    {
+      "image_name": "我一直好喜歡的說.jpg",
+      "vector_file": "我一直好喜歡的說.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我一直好喜歡的說.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我一直好喜歡的說.jpg"
+    },
+    {
+      "image_name": "我一直都很喜歡幫它倒數.jpg",
+      "vector_file": "我一直都很喜歡幫它倒數.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我一直都很喜歡幫它倒數.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我一直都很喜歡幫它倒數.jpg"
+    },
+    {
+      "image_name": "我不小心把海綿寶寶的牙刷丟進馬桶裡面.jpg",
+      "vector_file": "我不小心把海綿寶寶的牙刷丟進馬桶裡面.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不小心把海綿寶寶的牙刷丟進馬桶裡面.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不小心把海綿寶寶的牙刷丟進馬桶裡面.jpg"
+    },
+    {
+      "image_name": "我不明白 這裡是不是瓦斯漏氣啊.jpg",
+      "vector_file": "我不明白 這裡是不是瓦斯漏氣啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不明白 這裡是不是瓦斯漏氣啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不明白 這裡是不是瓦斯漏氣啊.jpg"
+    },
+    {
+      "image_name": "我不會讓你失望的.jpg",
+      "vector_file": "我不會讓你失望的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不會讓你失望的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不會讓你失望的.jpg"
+    },
+    {
+      "image_name": "我不知道原來你這麼冷血無情.jpg",
+      "vector_file": "我不知道原來你這麼冷血無情.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不知道原來你這麼冷血無情.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不知道原來你這麼冷血無情.jpg"
+    },
+    {
+      "image_name": "我不知道我是誰.jpg",
+      "vector_file": "我不知道我是誰.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不知道我是誰.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不知道我是誰.jpg"
+    },
+    {
+      "image_name": "我不能讓他這麼做.jpg",
+      "vector_file": "我不能讓他這麼做.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不能讓他這麼做.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不能讓他這麼做.jpg"
+    },
+    {
+      "image_name": "我不要看這個.jpg",
+      "vector_file": "我不要看這個.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不要看這個.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不要看這個.jpg"
+    },
+    {
+      "image_name": "我不需要.jpg",
+      "vector_file": "我不需要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我不需要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我不需要.jpg"
+    },
+    {
+      "image_name": "我也恨你的人生，老兄.jpg",
+      "vector_file": "我也恨你的人生，老兄.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我也恨你的人生，老兄.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我也恨你的人生，老兄.jpg"
+    },
+    {
+      "image_name": "我也要.jpg",
+      "vector_file": "我也要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我也要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我也要.jpg"
+    },
+    {
+      "image_name": "我今天早上都沒有睡飽.jpg",
+      "vector_file": "我今天早上都沒有睡飽.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我今天早上都沒有睡飽.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我今天早上都沒有睡飽.jpg"
+    },
+    {
+      "image_name": "我今天要賴在床上 一整天什麼都不做.jpg",
+      "vector_file": "我今天要賴在床上 一整天什麼都不做.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我今天要賴在床上 一整天什麼都不做.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我今天要賴在床上 一整天什麼都不做.jpg"
+    },
+    {
+      "image_name": "我以為我來上英文課的耶.jpg",
+      "vector_file": "我以為我來上英文課的耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我以為我來上英文課的耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我以為我來上英文課的耶.jpg"
+    },
+    {
+      "image_name": "我們不能待在裡面.jpg",
+      "vector_file": "我們不能待在裡面.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們不能待在裡面.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們不能待在裡面.jpg"
+    },
+    {
+      "image_name": "我們來改名字，叫做敗類窩囊廢.jpg",
+      "vector_file": "我們來改名字，叫做敗類窩囊廢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們來改名字，叫做敗類窩囊廢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們來改名字，叫做敗類窩囊廢.jpg"
+    },
+    {
+      "image_name": "我們又何必毀了他最後一天呢.jpg",
+      "vector_file": "我們又何必毀了他最後一天呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們又何必毀了他最後一天呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們又何必毀了他最後一天呢.jpg"
+    },
+    {
+      "image_name": "我們可是精英耶.jpg",
+      "vector_file": "我們可是精英耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們可是精英耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們可是精英耶.jpg"
+    },
+    {
+      "image_name": "我們周圍充滿了各種證據.jpg",
+      "vector_file": "我們周圍充滿了各種證據.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們周圍充滿了各種證據.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們周圍充滿了各種證據.jpg"
+    },
+    {
+      "image_name": "我們就來當企業大亨吧.jpg",
+      "vector_file": "我們就來當企業大亨吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們就來當企業大亨吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們就來當企業大亨吧.jpg"
+    },
+    {
+      "image_name": "我們應該要活在當下.jpg",
+      "vector_file": "我們應該要活在當下.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們應該要活在當下.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們應該要活在當下.jpg"
+    },
+    {
+      "image_name": "我們是在創造歷史耶章魚哥.jpg",
+      "vector_file": "我們是在創造歷史耶章魚哥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們是在創造歷史耶章魚哥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們是在創造歷史耶章魚哥.jpg"
+    },
+    {
+      "image_name": "我們會教你怎麼變好人.jpg",
+      "vector_file": "我們會教你怎麼變好人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們會教你怎麼變好人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們會教你怎麼變好人.jpg"
+    },
+    {
+      "image_name": "我們有最新科技.jpg",
+      "vector_file": "我們有最新科技.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們有最新科技.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們有最新科技.jpg"
+    },
+    {
+      "image_name": "我們看起來不狠，不嗜血嗎.jpg",
+      "vector_file": "我們看起來不狠，不嗜血嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們看起來不狠，不嗜血嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們看起來不狠，不嗜血嗎.jpg"
+    },
+    {
+      "image_name": "我們被他玩弄了.jpg",
+      "vector_file": "我們被他玩弄了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們被他玩弄了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們被他玩弄了.jpg"
+    },
+    {
+      "image_name": "我們被坑了.jpg",
+      "vector_file": "我們被坑了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們被坑了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們被坑了.jpg"
+    },
+    {
+      "image_name": "我們要從此擺脫毫無意義的生活.jpg",
+      "vector_file": "我們要從此擺脫毫無意義的生活.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們要從此擺脫毫無意義的生活.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們要從此擺脫毫無意義的生活.jpg"
+    },
+    {
+      "image_name": "我們要給他來自好朋友最溫暖的問候.jpg",
+      "vector_file": "我們要給他來自好朋友最溫暖的問候.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們要給他來自好朋友最溫暖的問候.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們要給他來自好朋友最溫暖的問候.jpg"
+    },
+    {
+      "image_name": "我們變成高貴勇猛的戰士了.jpg",
+      "vector_file": "我們變成高貴勇猛的戰士了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我們變成高貴勇猛的戰士了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我們變成高貴勇猛的戰士了.jpg"
+    },
+    {
+      "image_name": "我做不到.jpg",
+      "vector_file": "我做不到.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我做不到.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我做不到.jpg"
+    },
+    {
+      "image_name": "我剛剛發明了平行宇宙耶.jpg",
+      "vector_file": "我剛剛發明了平行宇宙耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我剛剛發明了平行宇宙耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我剛剛發明了平行宇宙耶.jpg"
+    },
+    {
+      "image_name": "我又不是懶惰的米蟲 整天賴在床上.jpg",
+      "vector_file": "我又不是懶惰的米蟲 整天賴在床上.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我又不是懶惰的米蟲 整天賴在床上.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我又不是懶惰的米蟲 整天賴在床上.jpg"
+    },
+    {
+      "image_name": "我又不知道.jpg",
+      "vector_file": "我又不知道.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我又不知道.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我又不知道.jpg"
+    },
+    {
+      "image_name": "我又沒有唸書.jpg",
+      "vector_file": "我又沒有唸書.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我又沒有唸書.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我又沒有唸書.jpg"
+    },
+    {
+      "image_name": "我受不了你們的無知.jpg",
+      "vector_file": "我受不了你們的無知.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我受不了你們的無知.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我受不了你們的無知.jpg"
+    },
+    {
+      "image_name": "我只想當我的派大星.jpg",
+      "vector_file": "我只想當我的派大星.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我只想當我的派大星.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我只想當我的派大星.jpg"
+    },
+    {
+      "image_name": "我只要一衍眨眼我就覺得好黑哦.jpg",
+      "vector_file": "我只要一衍眨眼我就覺得好黑哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我只要一衍眨眼我就覺得好黑哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我只要一衍眨眼我就覺得好黑哦.jpg"
+    },
+    {
+      "image_name": "我可是上過大學的.jpg",
+      "vector_file": "我可是上過大學的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我可是上過大學的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我可是上過大學的.jpg"
+    },
+    {
+      "image_name": "我可能沒有勇氣聽下去.jpg",
+      "vector_file": "我可能沒有勇氣聽下去.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我可能沒有勇氣聽下去.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我可能沒有勇氣聽下去.jpg"
+    },
+    {
+      "image_name": "我喜歡驚喜.jpg",
+      "vector_file": "我喜歡驚喜.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我喜歡驚喜.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我喜歡驚喜.jpg"
+    },
+    {
+      "image_name": "我太沒用了.jpg",
+      "vector_file": "我太沒用了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我太沒用了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我太沒用了.jpg"
+    },
+    {
+      "image_name": "我失敗了，我的前途毀了.jpg",
+      "vector_file": "我失敗了，我的前途毀了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我失敗了，我的前途毀了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我失敗了，我的前途毀了.jpg"
+    },
+    {
+      "image_name": "我好可悲.jpg",
+      "vector_file": "我好可悲.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好可悲.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好可悲.jpg"
+    },
+    {
+      "image_name": "我好孤單.jpg",
+      "vector_file": "我好孤單.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好孤單.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好孤單.jpg"
+    },
+    {
+      "image_name": "我好想你.jpg",
+      "vector_file": "我好想你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好想你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好想你.jpg"
+    },
+    {
+      "image_name": "我好想吃掉你哦.jpg",
+      "vector_file": "我好想吃掉你哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好想吃掉你哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好想吃掉你哦.jpg"
+    },
+    {
+      "image_name": "我好愛你.jpg",
+      "vector_file": "我好愛你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好愛你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好愛你.jpg"
+    },
+    {
+      "image_name": "我好討厭你們.jpg",
+      "vector_file": "我好討厭你們.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好討厭你們.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好討厭你們.jpg"
+    },
+    {
+      "image_name": "我好餓哦.jpg",
+      "vector_file": "我好餓哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好餓哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好餓哦.jpg"
+    },
+    {
+      "image_name": "我好高興哦.jpg",
+      "vector_file": "我好高興哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我好高興哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我好高興哦.jpg"
+    },
+    {
+      "image_name": "我寧願當個白癡.jpg",
+      "vector_file": "我寧願當個白癡.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我寧願當個白癡.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我寧願當個白癡.jpg"
+    },
+    {
+      "image_name": "我對天發誓 沒有.jpg",
+      "vector_file": "我對天發誓 沒有.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我對天發誓 沒有.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我對天發誓 沒有.jpg"
+    },
+    {
+      "image_name": "我工作到下午就走 就能準時回家.jpg",
+      "vector_file": "我工作到下午就走 就能準時回家.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我工作到下午就走 就能準時回家.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我工作到下午就走 就能準時回家.jpg"
+    },
+    {
+      "image_name": "我已經盡全力了.jpg",
+      "vector_file": "我已經盡全力了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我已經盡全力了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我已經盡全力了.jpg"
+    },
+    {
+      "image_name": "我已經盡力說得很婉轉了.jpg",
+      "vector_file": "我已經盡力說得很婉轉了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我已經盡力說得很婉轉了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我已經盡力說得很婉轉了.jpg"
+    },
+    {
+      "image_name": "我平常就是這樣呆頭呆腦才會沒煩惱啊.jpg",
+      "vector_file": "我平常就是這樣呆頭呆腦才會沒煩惱啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我平常就是這樣呆頭呆腦才會沒煩惱啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我平常就是這樣呆頭呆腦才會沒煩惱啊.jpg"
+    },
+    {
+      "image_name": "我很想，可是我要出門了.jpg",
+      "vector_file": "我很想，可是我要出門了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我很想，可是我要出門了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我很想，可是我要出門了.jpg"
+    },
+    {
+      "image_name": "我很需要.jpg",
+      "vector_file": "我很需要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我很需要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我很需要.jpg"
+    },
+    {
+      "image_name": "我從來沒有對他 感到這麼同情過.jpg",
+      "vector_file": "我從來沒有對他 感到這麼同情過.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我從來沒有對他 感到這麼同情過.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我從來沒有對他 感到這麼同情過.jpg"
+    },
+    {
+      "image_name": "我從來沒有說過那種話.jpg",
+      "vector_file": "我從來沒有說過那種話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我從來沒有說過那種話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我從來沒有說過那種話.jpg"
+    },
+    {
+      "image_name": "我恨我的人生.jpg",
+      "vector_file": "我恨我的人生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我恨我的人生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我恨我的人生.jpg"
+    },
+    {
+      "image_name": "我恨星期一.jpg",
+      "vector_file": "我恨星期一.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我恨星期一.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我恨星期一.jpg"
+    },
+    {
+      "image_name": "我想要改變命運 這是真的.jpg",
+      "vector_file": "我想要改變命運 這是真的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我想要改變命運 這是真的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我想要改變命運 這是真的.jpg"
+    },
+    {
+      "image_name": "我愛賺錢道.jpg",
+      "vector_file": "我愛賺錢道.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我愛賺錢道.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我愛賺錢道.jpg"
+    },
+    {
+      "image_name": "我投降了.jpg",
+      "vector_file": "我投降了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我投降了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我投降了.jpg"
+    },
+    {
+      "image_name": "我排第一個 誰都不能叫我到後面去.jpg",
+      "vector_file": "我排第一個 誰都不能叫我到後面去.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我排第一個 誰都不能叫我到後面去.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我排第一個 誰都不能叫我到後面去.jpg"
+    },
+    {
+      "image_name": "我是一個敗類.jpg",
+      "vector_file": "我是一個敗類.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我是一個敗類.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我是一個敗類.jpg"
+    },
+    {
+      "image_name": "我是一個用一切家當去換來.jpg",
+      "vector_file": "我是一個用一切家當去換來.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我是一個用一切家當去換來.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我是一個用一切家當去換來.jpg"
+    },
+    {
+      "image_name": "我會救你的，可是我要先去刷個牙.jpg",
+      "vector_file": "我會救你的，可是我要先去刷個牙.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我會救你的，可是我要先去刷個牙.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我會救你的，可是我要先去刷個牙.jpg"
+    },
+    {
+      "image_name": "我會跟他們說你們全部都死於車禍意外.jpg",
+      "vector_file": "我會跟他們說你們全部都死於車禍意外.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我會跟他們說你們全部都死於車禍意外.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我會跟他們說你們全部都死於車禍意外.jpg"
+    },
+    {
+      "image_name": "我有一件事情一直想要告訴你.jpg",
+      "vector_file": "我有一件事情一直想要告訴你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我有一件事情一直想要告訴你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我有一件事情一直想要告訴你.jpg"
+    },
+    {
+      "image_name": "我有一件事情要宣布.jpg",
+      "vector_file": "我有一件事情要宣布.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我有一件事情要宣布.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我有一件事情要宣布.jpg"
+    },
+    {
+      "image_name": "我有一大堆的錢 卻不知道要怎麼花掉.jpg",
+      "vector_file": "我有一大堆的錢 卻不知道要怎麼花掉.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我有一大堆的錢 卻不知道要怎麼花掉.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我有一大堆的錢 卻不知道要怎麼花掉.jpg"
+    },
+    {
+      "image_name": "我本來以為他們終於變聰明了.jpg",
+      "vector_file": "我本來以為他們終於變聰明了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我本來以為他們終於變聰明了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我本來以為他們終於變聰明了.jpg"
+    },
+    {
+      "image_name": "我正要趕去參加大呆瓜遊行活動.jpg",
+      "vector_file": "我正要趕去參加大呆瓜遊行活動.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我正要趕去參加大呆瓜遊行活動.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我正要趕去參加大呆瓜遊行活動.jpg"
+    },
+    {
+      "image_name": "我死也瞑目了.jpg",
+      "vector_file": "我死也瞑目了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我死也瞑目了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我死也瞑目了.jpg"
+    },
+    {
+      "image_name": "我永遠都得不到獎盃了啦.jpg",
+      "vector_file": "我永遠都得不到獎盃了啦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我永遠都得不到獎盃了啦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我永遠都得不到獎盃了啦.jpg"
+    },
+    {
+      "image_name": "我沒空 拜拜.jpg",
+      "vector_file": "我沒空 拜拜.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我沒空 拜拜.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我沒空 拜拜.jpg"
+    },
+    {
+      "image_name": "我準備好了.jpg",
+      "vector_file": "我準備好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我準備好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我準備好了.jpg"
+    },
+    {
+      "image_name": "我準備要去瘋狂了.jpg",
+      "vector_file": "我準備要去瘋狂了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我準備要去瘋狂了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我準備要去瘋狂了.jpg"
+    },
+    {
+      "image_name": "我現在確定他很OK.jpg",
+      "vector_file": "我現在確定他很OK.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我現在確定他很OK.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我現在確定他很OK.jpg"
+    },
+    {
+      "image_name": "我發現了一件可怕的事情.jpg",
+      "vector_file": "我發現了一件可怕的事情.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我發現了一件可怕的事情.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我發現了一件可怕的事情.jpg"
+    },
+    {
+      "image_name": "我的動機何在.jpg",
+      "vector_file": "我的動機何在.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的動機何在.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的動機何在.jpg"
+    },
+    {
+      "image_name": "我的眼球都快要脫窗了.jpg",
+      "vector_file": "我的眼球都快要脫窗了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的眼球都快要脫窗了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的眼球都快要脫窗了.jpg"
+    },
+    {
+      "image_name": "我的眼睛.jpg",
+      "vector_file": "我的眼睛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的眼睛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的眼睛.jpg"
+    },
+    {
+      "image_name": "我的美麗星期天只剩下3個小時了.jpg",
+      "vector_file": "我的美麗星期天只剩下3個小時了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的美麗星期天只剩下3個小時了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的美麗星期天只剩下3個小時了.jpg"
+    },
+    {
+      "image_name": "我的腦袋一定是在那裡撞壞了.jpg",
+      "vector_file": "我的腦袋一定是在那裡撞壞了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的腦袋一定是在那裡撞壞了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的腦袋一定是在那裡撞壞了.jpg"
+    },
+    {
+      "image_name": "我的賤招都是跟他學的.jpg",
+      "vector_file": "我的賤招都是跟他學的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我的賤招都是跟他學的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我的賤招都是跟他學的.jpg"
+    },
+    {
+      "image_name": "我真不敢相信我的美夢會成真.jpg",
+      "vector_file": "我真不敢相信我的美夢會成真.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我真不敢相信我的美夢會成真.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我真不敢相信我的美夢會成真.jpg"
+    },
+    {
+      "image_name": "我真是個大白癡.jpg",
+      "vector_file": "我真是個大白癡.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我真是個大白癡.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我真是個大白癡.jpg"
+    },
+    {
+      "image_name": "我真的好想睡覺哦.jpg",
+      "vector_file": "我真的好想睡覺哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我真的好想睡覺哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我真的好想睡覺哦.jpg"
+    },
+    {
+      "image_name": "我知道今天要做什麼了.jpg",
+      "vector_file": "我知道今天要做什麼了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我知道今天要做什麼了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我知道今天要做什麼了.jpg"
+    },
+    {
+      "image_name": "我知道怎麼做，我看過書.jpg",
+      "vector_file": "我知道怎麼做，我看過書.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我知道怎麼做，我看過書.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我知道怎麼做，我看過書.jpg"
+    },
+    {
+      "image_name": "我知道是我活該.jpg",
+      "vector_file": "我知道是我活該.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我知道是我活該.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我知道是我活該.jpg"
+    },
+    {
+      "image_name": "我笑場了.jpg",
+      "vector_file": "我笑場了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我笑場了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我笑場了.jpg"
+    },
+    {
+      "image_name": "我聽不見，這裡實在太黑了.jpg",
+      "vector_file": "我聽不見，這裡實在太黑了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我聽不見，這裡實在太黑了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我聽不見，這裡實在太黑了.jpg"
+    },
+    {
+      "image_name": "我自己逮到自己.jpg",
+      "vector_file": "我自己逮到自己.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我自己逮到自己.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我自己逮到自己.jpg"
+    },
+    {
+      "image_name": "我要怎麼過生活，不關你的事.jpg",
+      "vector_file": "我要怎麼過生活，不關你的事.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我要怎麼過生活，不關你的事.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我要怎麼過生活，不關你的事.jpg"
+    },
+    {
+      "image_name": "我要給你一個驚喜哦.jpg",
+      "vector_file": "我要給你一個驚喜哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我要給你一個驚喜哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我要給你一個驚喜哦.jpg"
+    },
+    {
+      "image_name": "我要送你一個禮物.jpg",
+      "vector_file": "我要送你一個禮物.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我要送你一個禮物.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我要送你一個禮物.jpg"
+    },
+    {
+      "image_name": "我要飛囉.jpg",
+      "vector_file": "我要飛囉.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我要飛囉.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我要飛囉.jpg"
+    },
+    {
+      "image_name": "我覺得你話中有話.jpg",
+      "vector_file": "我覺得你話中有話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我覺得你話中有話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我覺得你話中有話.jpg"
+    },
+    {
+      "image_name": "我覺得我好值錢哦.jpg",
+      "vector_file": "我覺得我好值錢哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我覺得我好值錢哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我覺得我好值錢哦.jpg"
+    },
+    {
+      "image_name": "我討厭你，小紅心.jpg",
+      "vector_file": "我討厭你，小紅心.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我討厭你，小紅心.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我討厭你，小紅心.jpg"
+    },
+    {
+      "image_name": "我該怎麼辦才好呢.jpg",
+      "vector_file": "我該怎麼辦才好呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我該怎麼辦才好呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我該怎麼辦才好呢.jpg"
+    },
+    {
+      "image_name": "我認為這類的歡笑極度不合邏輯.jpg",
+      "vector_file": "我認為這類的歡笑極度不合邏輯.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我認為這類的歡笑極度不合邏輯.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我認為這類的歡笑極度不合邏輯.jpg"
+    },
+    {
+      "image_name": "我變得跟你一樣醜了.jpg",
+      "vector_file": "我變得跟你一樣醜了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我變得跟你一樣醜了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我變得跟你一樣醜了.jpg"
+    },
+    {
+      "image_name": "我跟你打招呼 不是你可以隨便到轉回來.jpg",
+      "vector_file": "我跟你打招呼 不是你可以隨便到轉回來.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我跟你打招呼 不是你可以隨便到轉回來.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我跟你打招呼 不是你可以隨便到轉回來.jpg"
+    },
+    {
+      "image_name": "我跟小星星握到手了.jpg",
+      "vector_file": "我跟小星星握到手了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我跟小星星握到手了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我跟小星星握到手了.jpg"
+    },
+    {
+      "image_name": "我這輩子 只在乎六點能不能準時下班.jpg",
+      "vector_file": "我這輩子 只在乎六點能不能準時下班.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我這輩子 只在乎六點能不能準時下班.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我這輩子 只在乎六點能不能準時下班.jpg"
+    },
+    {
+      "image_name": "我這麼做不是為了錢.jpg",
+      "vector_file": "我這麼做不是為了錢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我這麼做不是為了錢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我這麼做不是為了錢.jpg"
+    },
+    {
+      "image_name": "我這麼醜 見不得人.jpg",
+      "vector_file": "我這麼醜 見不得人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我這麼醜 見不得人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我這麼醜 見不得人.jpg"
+    },
+    {
+      "image_name": "我連男生廁所女生廁所都分不清楚了.jpg",
+      "vector_file": "我連男生廁所女生廁所都分不清楚了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我連男生廁所女生廁所都分不清楚了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我連男生廁所女生廁所都分不清楚了.jpg"
+    },
+    {
+      "image_name": "我還以為你喜歡的是我.jpg",
+      "vector_file": "我還以為你喜歡的是我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我還以為你喜歡的是我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我還以為你喜歡的是我.jpg"
+    },
+    {
+      "image_name": "我都不知道我有耳朵耶.jpg",
+      "vector_file": "我都不知道我有耳朵耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我都不知道我有耳朵耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我都不知道我有耳朵耶.jpg"
+    },
+    {
+      "image_name": "我都沒想到我的生命會這麼的悲哀空虛.jpg",
+      "vector_file": "我都沒想到我的生命會這麼的悲哀空虛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我都沒想到我的生命會這麼的悲哀空虛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我都沒想到我的生命會這麼的悲哀空虛.jpg"
+    },
+    {
+      "image_name": "我需要.jpg",
+      "vector_file": "我需要.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我需要.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我需要.jpg"
+    },
+    {
+      "image_name": "我需要錢.jpg",
+      "vector_file": "我需要錢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我需要錢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我需要錢.jpg"
+    },
+    {
+      "image_name": "我願意傳授秘訣給你哦.jpg",
+      "vector_file": "我願意傳授秘訣給你哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\我願意傳授秘訣給你哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\我願意傳授秘訣給你哦.jpg"
+    },
+    {
+      "image_name": "所以我們認為這麼做對大家都好.jpg",
+      "vector_file": "所以我們認為這麼做對大家都好.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\所以我們認為這麼做對大家都好.npy",
+      "vector_dim": 768,
+      "image_path": "data\\所以我們認為這麼做對大家都好.jpg"
+    },
+    {
+      "image_name": "才怪呢 我才不在乎.jpg",
+      "vector_file": "才怪呢 我才不在乎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\才怪呢 我才不在乎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\才怪呢 我才不在乎.jpg"
+    },
+    {
+      "image_name": "拜託你 不要偷看好不好.jpg",
+      "vector_file": "拜託你 不要偷看好不好.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\拜託你 不要偷看好不好.npy",
+      "vector_dim": 768,
+      "image_path": "data\\拜託你 不要偷看好不好.jpg"
+    },
+    {
+      "image_name": "拿去，我的錢給你.jpg",
+      "vector_file": "拿去，我的錢給你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\拿去，我的錢給你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\拿去，我的錢給你.jpg"
+    },
+    {
+      "image_name": "拿去，送給你.jpg",
+      "vector_file": "拿去，送給你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\拿去，送給你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\拿去，送給你.jpg"
+    },
+    {
+      "image_name": "拿去，這是你的駕照.jpg",
+      "vector_file": "拿去，這是你的駕照.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\拿去，這是你的駕照.npy",
+      "vector_dim": 768,
+      "image_path": "data\\拿去，這是你的駕照.jpg"
+    },
+    {
+      "image_name": "改天一定讓你休息.jpg",
+      "vector_file": "改天一定讓你休息.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\改天一定讓你休息.npy",
+      "vector_dim": 768,
+      "image_path": "data\\改天一定讓你休息.jpg"
+    },
+    {
+      "image_name": "明天一定會更美好更美麗的.jpg",
+      "vector_file": "明天一定會更美好更美麗的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\明天一定會更美好更美麗的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\明天一定會更美好更美麗的.jpg"
+    },
+    {
+      "image_name": "明天再來.jpg",
+      "vector_file": "明天再來.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\明天再來.npy",
+      "vector_dim": 768,
+      "image_path": "data\\明天再來.jpg"
+    },
+    {
+      "image_name": "明明就是你在鬧我的.jpg",
+      "vector_file": "明明就是你在鬧我的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\明明就是你在鬧我的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\明明就是你在鬧我的.jpg"
+    },
+    {
+      "image_name": "是個大驚喜.jpg",
+      "vector_file": "是個大驚喜.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\是個大驚喜.npy",
+      "vector_dim": 768,
+      "image_path": "data\\是個大驚喜.jpg"
+    },
+    {
+      "image_name": "是啊，我好想知道啊.jpg",
+      "vector_file": "是啊，我好想知道啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\是啊，我好想知道啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\是啊，我好想知道啊.jpg"
+    },
+    {
+      "image_name": "是小瘋子.jpg",
+      "vector_file": "是小瘋子.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\是小瘋子.npy",
+      "vector_dim": 768,
+      "image_path": "data\\是小瘋子.jpg"
+    },
+    {
+      "image_name": "是我想到的哦.jpg",
+      "vector_file": "是我想到的哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\是我想到的哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\是我想到的哦.jpg"
+    },
+    {
+      "image_name": "最偉大的名廚會我這一招嗎.jpg",
+      "vector_file": "最偉大的名廚會我這一招嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\最偉大的名廚會我這一招嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\最偉大的名廚會我這一招嗎.jpg"
+    },
+    {
+      "image_name": "有了想像力.jpg",
+      "vector_file": "有了想像力.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有了想像力.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有了想像力.jpg"
+    },
+    {
+      "image_name": "有了，來裸奔吧.jpg",
+      "vector_file": "有了，來裸奔吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有了，來裸奔吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有了，來裸奔吧.jpg"
+    },
+    {
+      "image_name": "有人在追殺我我最好現在就跑掉.jpg",
+      "vector_file": "有人在追殺我我最好現在就跑掉.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有人在追殺我我最好現在就跑掉.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有人在追殺我我最好現在就跑掉.jpg"
+    },
+    {
+      "image_name": "有人對我丟了一顆大雪球.jpg",
+      "vector_file": "有人對我丟了一顆大雪球.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有人對我丟了一顆大雪球.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有人對我丟了一顆大雪球.jpg"
+    },
+    {
+      "image_name": "有個老同學 他有個朋友.jpg",
+      "vector_file": "有個老同學 他有個朋友.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有個老同學 他有個朋友.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有個老同學 他有個朋友.jpg"
+    },
+    {
+      "image_name": "有夠炫的.jpg",
+      "vector_file": "有夠炫的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有夠炫的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有夠炫的.jpg"
+    },
+    {
+      "image_name": "有時候我好佩服我自己這麼聰明哦.jpg",
+      "vector_file": "有時候我好佩服我自己這麼聰明哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有時候我好佩服我自己這麼聰明哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有時候我好佩服我自己這麼聰明哦.jpg"
+    },
+    {
+      "image_name": "有的時候，我就是好想逃離那一切.jpg",
+      "vector_file": "有的時候，我就是好想逃離那一切.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有的時候，我就是好想逃離那一切.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有的時候，我就是好想逃離那一切.jpg"
+    },
+    {
+      "image_name": "有種就來啊，臭老頭.jpg",
+      "vector_file": "有種就來啊，臭老頭.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\有種就來啊，臭老頭.npy",
+      "vector_dim": 768,
+      "image_path": "data\\有種就來啊，臭老頭.jpg"
+    },
+    {
+      "image_name": "某方面來說的確滿好笑的.jpg",
+      "vector_file": "某方面來說的確滿好笑的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\某方面來說的確滿好笑的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\某方面來說的確滿好笑的.jpg"
+    },
+    {
+      "image_name": "根據經驗 他只能活到落日了.jpg",
+      "vector_file": "根據經驗 他只能活到落日了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\根據經驗 他只能活到落日了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\根據經驗 他只能活到落日了.jpg"
+    },
+    {
+      "image_name": "榮華富貴，我們來了.jpg",
+      "vector_file": "榮華富貴，我們來了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\榮華富貴，我們來了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\榮華富貴，我們來了.jpg"
+    },
+    {
+      "image_name": "沒文化的垃圾渣渣.jpg",
+      "vector_file": "沒文化的垃圾渣渣.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\沒文化的垃圾渣渣.npy",
+      "vector_dim": 768,
+      "image_path": "data\\沒文化的垃圾渣渣.jpg"
+    },
+    {
+      "image_name": "沒有人敢叫我胖呆.jpg",
+      "vector_file": "沒有人敢叫我胖呆.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\沒有人敢叫我胖呆.npy",
+      "vector_dim": 768,
+      "image_path": "data\\沒有人敢叫我胖呆.jpg"
+    },
+    {
+      "image_name": "沒有人會平白無故對你好對你笑的.jpg",
+      "vector_file": "沒有人會平白無故對你好對你笑的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\沒有人會平白無故對你好對你笑的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\沒有人會平白無故對你好對你笑的.jpg"
+    },
+    {
+      "image_name": "沒錯，那是我一直在等待的.jpg",
+      "vector_file": "沒錯，那是我一直在等待的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\沒錯，那是我一直在等待的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\沒錯，那是我一直在等待的.jpg"
+    },
+    {
+      "image_name": "沒關係，你慢慢想.jpg",
+      "vector_file": "沒關係，你慢慢想.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\沒關係，你慢慢想.npy",
+      "vector_dim": 768,
+      "image_path": "data\\沒關係，你慢慢想.jpg"
+    },
+    {
+      "image_name": "派大星 你有沒有過忘了什麼的感覺.jpg",
+      "vector_file": "派大星 你有沒有過忘了什麼的感覺.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\派大星 你有沒有過忘了什麼的感覺.npy",
+      "vector_dim": 768,
+      "image_path": "data\\派大星 你有沒有過忘了什麼的感覺.jpg"
+    },
+    {
+      "image_name": "派大星也需要愛.jpg",
+      "vector_file": "派大星也需要愛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\派大星也需要愛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\派大星也需要愛.jpg"
+    },
+    {
+      "image_name": "派大星啊 你真的好會殺價.jpg",
+      "vector_file": "派大星啊 你真的好會殺價.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\派大星啊 你真的好會殺價.npy",
+      "vector_dim": 768,
+      "image_path": "data\\派大星啊 你真的好會殺價.jpg"
+    },
+    {
+      "image_name": "派大星好想哭.jpg",
+      "vector_file": "派大星好想哭.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\派大星好想哭.npy",
+      "vector_dim": 768,
+      "image_path": "data\\派大星好想哭.jpg"
+    },
+    {
+      "image_name": "派大星，我不想面對我的恐懼.jpg",
+      "vector_file": "派大星，我不想面對我的恐懼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\派大星，我不想面對我的恐懼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\派大星，我不想面對我的恐懼.jpg"
+    },
+    {
+      "image_name": "海綿...海綿寶寶困在石頭裡了.jpg",
+      "vector_file": "海綿...海綿寶寶困在石頭裡了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿...海綿寶寶困在石頭裡了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿...海綿寶寶困在石頭裡了.jpg"
+    },
+    {
+      "image_name": "海綿寶寶 我工作一整天快要累掛了.jpg",
+      "vector_file": "海綿寶寶 我工作一整天快要累掛了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶 我工作一整天快要累掛了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶 我工作一整天快要累掛了.jpg"
+    },
+    {
+      "image_name": "海綿寶寶 現在是我們生命中的黃金歲月.jpg",
+      "vector_file": "海綿寶寶 現在是我們生命中的黃金歲月.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶 現在是我們生命中的黃金歲月.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶 現在是我們生命中的黃金歲月.jpg"
+    },
+    {
+      "image_name": "海綿寶寶她真得好懂得喝茶哦.jpg",
+      "vector_file": "海綿寶寶她真得好懂得喝茶哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶她真得好懂得喝茶哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶她真得好懂得喝茶哦.jpg"
+    },
+    {
+      "image_name": "海綿寶寶，你有秘訣嗎.jpg",
+      "vector_file": "海綿寶寶，你有秘訣嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶，你有秘訣嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶，你有秘訣嗎.jpg"
+    },
+    {
+      "image_name": "海綿寶寶，派大星.jpg",
+      "vector_file": "海綿寶寶，派大星.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶，派大星.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶，派大星.jpg"
+    },
+    {
+      "image_name": "海綿寶寶，車子來了.jpg",
+      "vector_file": "海綿寶寶，車子來了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\海綿寶寶，車子來了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\海綿寶寶，車子來了.jpg"
+    },
+    {
+      "image_name": "準備好要接受治療了嗎.jpg",
+      "vector_file": "準備好要接受治療了嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\準備好要接受治療了嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\準備好要接受治療了嗎.jpg"
+    },
+    {
+      "image_name": "滿公道的.jpg",
+      "vector_file": "滿公道的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\滿公道的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\滿公道的.jpg"
+    },
+    {
+      "image_name": "為什麼一定要這麼做呢.jpg",
+      "vector_file": "為什麼一定要這麼做呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\為什麼一定要這麼做呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\為什麼一定要這麼做呢.jpg"
+    },
+    {
+      "image_name": "煩死章魚哥日.jpg",
+      "vector_file": "煩死章魚哥日.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\煩死章魚哥日.npy",
+      "vector_dim": 768,
+      "image_path": "data\\煩死章魚哥日.jpg"
+    },
+    {
+      "image_name": "獎盃耶，我從來沒有得到過獎盃.jpg",
+      "vector_file": "獎盃耶，我從來沒有得到過獎盃.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\獎盃耶，我從來沒有得到過獎盃.npy",
+      "vector_dim": 768,
+      "image_path": "data\\獎盃耶，我從來沒有得到過獎盃.jpg"
+    },
+    {
+      "image_name": "珊迪也想你.jpg",
+      "vector_file": "珊迪也想你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\珊迪也想你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\珊迪也想你.jpg"
+    },
+    {
+      "image_name": "現在他短路了.jpg",
+      "vector_file": "現在他短路了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\現在他短路了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\現在他短路了.jpg"
+    },
+    {
+      "image_name": "現在我也要傷了你的什麼東東.jpg",
+      "vector_file": "現在我也要傷了你的什麼東東.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\現在我也要傷了你的什麼東東.npy",
+      "vector_dim": 768,
+      "image_path": "data\\現在我也要傷了你的什麼東東.jpg"
+    },
+    {
+      "image_name": "現在我超正常的.jpg",
+      "vector_file": "現在我超正常的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\現在我超正常的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\現在我超正常的.jpg"
+    },
+    {
+      "image_name": "當好糾察隊長.jpg",
+      "vector_file": "當好糾察隊長.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\當好糾察隊長.npy",
+      "vector_dim": 768,
+      "image_path": "data\\當好糾察隊長.jpg"
+    },
+    {
+      "image_name": "看來你終於找對方向了.jpg",
+      "vector_file": "看來你終於找對方向了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看來你終於找對方向了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看來你終於找對方向了.jpg"
+    },
+    {
+      "image_name": "看來大家都很尊敬你.jpg",
+      "vector_file": "看來大家都很尊敬你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看來大家都很尊敬你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看來大家都很尊敬你.jpg"
+    },
+    {
+      "image_name": "看到沒有 這可是門科學.jpg",
+      "vector_file": "看到沒有 這可是門科學.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看到沒有 這可是門科學.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看到沒有 這可是門科學.jpg"
+    },
+    {
+      "image_name": "看我的碎石絕招.jpg",
+      "vector_file": "看我的碎石絕招.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看我的碎石絕招.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看我的碎石絕招.jpg"
+    },
+    {
+      "image_name": "看樣子我們的史前好朋友剛剛發現了火.jpg",
+      "vector_file": "看樣子我們的史前好朋友剛剛發現了火.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看樣子我們的史前好朋友剛剛發現了火.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看樣子我們的史前好朋友剛剛發現了火.jpg"
+    },
+    {
+      "image_name": "看看他 他好醜對不對.jpg",
+      "vector_file": "看看他 他好醜對不對.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看看他 他好醜對不對.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看看他 他好醜對不對.jpg"
+    },
+    {
+      "image_name": "看起來花了好多錢.jpg",
+      "vector_file": "看起來花了好多錢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\看起來花了好多錢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\看起來花了好多錢.jpg"
+    },
+    {
+      "image_name": "真沒想到我們的友誼會這麼珍貴.jpg",
+      "vector_file": "真沒想到我們的友誼會這麼珍貴.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\真沒想到我們的友誼會這麼珍貴.npy",
+      "vector_dim": 768,
+      "image_path": "data\\真沒想到我們的友誼會這麼珍貴.jpg"
+    },
+    {
+      "image_name": "知道今天是什麼日子嗎.jpg",
+      "vector_file": "知道今天是什麼日子嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\知道今天是什麼日子嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\知道今天是什麼日子嗎.jpg"
+    },
+    {
+      "image_name": "祝你生日快樂 我們來為你慶生.jpg",
+      "vector_file": "祝你生日快樂 我們來為你慶生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\祝你生日快樂 我們來為你慶生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\祝你生日快樂 我們來為你慶生.jpg"
+    },
+    {
+      "image_name": "祝你生日快樂 生日快樂蛋糕.jpg",
+      "vector_file": "祝你生日快樂 生日快樂蛋糕.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\祝你生日快樂 生日快樂蛋糕.npy",
+      "vector_dim": 768,
+      "image_path": "data\\祝你生日快樂 生日快樂蛋糕.jpg"
+    },
+    {
+      "image_name": "祝你生日快樂.jpg",
+      "vector_file": "祝你生日快樂.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\祝你生日快樂.npy",
+      "vector_dim": 768,
+      "image_path": "data\\祝你生日快樂.jpg"
+    },
+    {
+      "image_name": "祝你祝你生日快樂.jpg",
+      "vector_file": "祝你祝你生日快樂.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\祝你祝你生日快樂.npy",
+      "vector_dim": 768,
+      "image_path": "data\\祝你祝你生日快樂.jpg"
+    },
+    {
+      "image_name": "章魚哥，救我.jpg",
+      "vector_file": "章魚哥，救我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\章魚哥，救我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\章魚哥，救我.jpg"
+    },
+    {
+      "image_name": "等你想做好玩的事情再來找我好了.jpg",
+      "vector_file": "等你想做好玩的事情再來找我好了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\等你想做好玩的事情再來找我好了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\等你想做好玩的事情再來找我好了.jpg"
+    },
+    {
+      "image_name": "等我掛了就不緊張了.jpg",
+      "vector_file": "等我掛了就不緊張了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\等我掛了就不緊張了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\等我掛了就不緊張了.jpg"
+    },
+    {
+      "image_name": "等著瞧吧，這才是最終極的.jpg",
+      "vector_file": "等著瞧吧，這才是最終極的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\等著瞧吧，這才是最終極的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\等著瞧吧，這才是最終極的.jpg"
+    },
+    {
+      "image_name": "箱子不是這麼玩的.jpg",
+      "vector_file": "箱子不是這麼玩的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\箱子不是這麼玩的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\箱子不是這麼玩的.jpg"
+    },
+    {
+      "image_name": "箱子裡有什麼.jpg",
+      "vector_file": "箱子裡有什麼.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\箱子裡有什麼.npy",
+      "vector_dim": 768,
+      "image_path": "data\\箱子裡有什麼.jpg"
+    },
+    {
+      "image_name": "糗了，我不是派大星.jpg",
+      "vector_file": "糗了，我不是派大星.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\糗了，我不是派大星.npy",
+      "vector_dim": 768,
+      "image_path": "data\\糗了，我不是派大星.jpg"
+    },
+    {
+      "image_name": "絕對撐不過十秒的.jpg",
+      "vector_file": "絕對撐不過十秒的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\絕對撐不過十秒的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\絕對撐不過十秒的.jpg"
+    },
+    {
+      "image_name": "給我滾 野蠻人.jpg",
+      "vector_file": "給我滾 野蠻人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\給我滾 野蠻人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\給我滾 野蠻人.jpg"
+    },
+    {
+      "image_name": "給我站住 老太婆.jpg",
+      "vector_file": "給我站住 老太婆.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\給我站住 老太婆.npy",
+      "vector_dim": 768,
+      "image_path": "data\\給我站住 老太婆.jpg"
+    },
+    {
+      "image_name": "老弟，你是負責搞笑的嗎.jpg",
+      "vector_file": "老弟，你是負責搞笑的嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\老弟，你是負責搞笑的嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\老弟，你是負責搞笑的嗎.jpg"
+    },
+    {
+      "image_name": "而且一小時只有50塊錢耶.jpg",
+      "vector_file": "而且一小時只有50塊錢耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\而且一小時只有50塊錢耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\而且一小時只有50塊錢耶.jpg"
+    },
+    {
+      "image_name": "而且你看起來比平常還要可笑呢.jpg",
+      "vector_file": "而且你看起來比平常還要可笑呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\而且你看起來比平常還要可笑呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\而且你看起來比平常還要可笑呢.jpg"
+    },
+    {
+      "image_name": "耍酷哦.jpg",
+      "vector_file": "耍酷哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\耍酷哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\耍酷哦.jpg"
+    },
+    {
+      "image_name": "胖呆說的對.jpg",
+      "vector_file": "胖呆說的對.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\胖呆說的對.npy",
+      "vector_dim": 768,
+      "image_path": "data\\胖呆說的對.jpg"
+    },
+    {
+      "image_name": "至少我們還擁有彼此啊.jpg",
+      "vector_file": "至少我們還擁有彼此啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\至少我們還擁有彼此啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\至少我們還擁有彼此啊.jpg"
+    },
+    {
+      "image_name": "芝麻開門.jpg",
+      "vector_file": "芝麻開門.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\芝麻開門.npy",
+      "vector_dim": 768,
+      "image_path": "data\\芝麻開門.jpg"
+    },
+    {
+      "image_name": "花花漂亮亮，垃圾臭嘛嘛.jpg",
+      "vector_file": "花花漂亮亮，垃圾臭嘛嘛.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\花花漂亮亮，垃圾臭嘛嘛.npy",
+      "vector_dim": 768,
+      "image_path": "data\\花花漂亮亮，垃圾臭嘛嘛.jpg"
+    },
+    {
+      "image_name": "要我做什麼都可以.jpg",
+      "vector_file": "要我做什麼都可以.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要我做什麼都可以.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要我做什麼都可以.jpg"
+    },
+    {
+      "image_name": "要是我有眼淚 我會哭的.jpg",
+      "vector_file": "要是我有眼淚 我會哭的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要是我有眼淚 我會哭的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要是我有眼淚 我會哭的.jpg"
+    },
+    {
+      "image_name": "要是我當媽媽 他可能會被我嚇到.jpg",
+      "vector_file": "要是我當媽媽 他可能會被我嚇到.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要是我當媽媽 他可能會被我嚇到.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要是我當媽媽 他可能會被我嚇到.jpg"
+    },
+    {
+      "image_name": "要記住你跟我說的話.jpg",
+      "vector_file": "要記住你跟我說的話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要記住你跟我說的話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要記住你跟我說的話.jpg"
+    },
+    {
+      "image_name": "要記住想要炫，翹小指.jpg",
+      "vector_file": "要記住想要炫，翹小指.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要記住想要炫，翹小指.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要記住想要炫，翹小指.jpg"
+    },
+    {
+      "image_name": "要跟別人比聰明的話呢 你永遠都是第一名.jpg",
+      "vector_file": "要跟別人比聰明的話呢 你永遠都是第一名.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\要跟別人比聰明的話呢 你永遠都是第一名.npy",
+      "vector_dim": 768,
+      "image_path": "data\\要跟別人比聰明的話呢 你永遠都是第一名.jpg"
+    },
+    {
+      "image_name": "誰說的.jpg",
+      "vector_file": "誰說的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\誰說的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\誰說的.jpg"
+    },
+    {
+      "image_name": "請你面對事實，這樣只會傷害你自己.jpg",
+      "vector_file": "請你面對事實，這樣只會傷害你自己.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\請你面對事實，這樣只會傷害你自己.npy",
+      "vector_dim": 768,
+      "image_path": "data\\請你面對事實，這樣只會傷害你自己.jpg"
+    },
+    {
+      "image_name": "請問我會不會變成章魚燒.jpg",
+      "vector_file": "請問我會不會變成章魚燒.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\請問我會不會變成章魚燒.npy",
+      "vector_dim": 768,
+      "image_path": "data\\請問我會不會變成章魚燒.jpg"
+    },
+    {
+      "image_name": "請問這裡還有沒有第五個章魚哥.jpg",
+      "vector_file": "請問這裡還有沒有第五個章魚哥.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\請問這裡還有沒有第五個章魚哥.npy",
+      "vector_dim": 768,
+      "image_path": "data\\請問這裡還有沒有第五個章魚哥.jpg"
+    },
+    {
+      "image_name": "請妳在嗶聲之後留下訊息吧.jpg",
+      "vector_file": "請妳在嗶聲之後留下訊息吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\請妳在嗶聲之後留下訊息吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\請妳在嗶聲之後留下訊息吧.jpg"
+    },
+    {
+      "image_name": "路馬過要麼什為雞小.jpg",
+      "vector_file": "路馬過要麼什為雞小.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\路馬過要麼什為雞小.npy",
+      "vector_dim": 768,
+      "image_path": "data\\路馬過要麼什為雞小.jpg"
+    },
+    {
+      "image_name": "這一切都是必要的.jpg",
+      "vector_file": "這一切都是必要的.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這一切都是必要的.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這一切都是必要的.jpg"
+    },
+    {
+      "image_name": "這些人真是沒有禮貌.jpg",
+      "vector_file": "這些人真是沒有禮貌.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這些人真是沒有禮貌.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這些人真是沒有禮貌.jpg"
+    },
+    {
+      "image_name": "這些呆瓜在這裡吵得不得了.jpg",
+      "vector_file": "這些呆瓜在這裡吵得不得了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這些呆瓜在這裡吵得不得了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這些呆瓜在這裡吵得不得了.jpg"
+    },
+    {
+      "image_name": "這些鄉民怎麼教都教不會.jpg",
+      "vector_file": "這些鄉民怎麼教都教不會.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這些鄉民怎麼教都教不會.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這些鄉民怎麼教都教不會.jpg"
+    },
+    {
+      "image_name": "這個梗太老套了吧.jpg",
+      "vector_file": "這個梗太老套了吧.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這個梗太老套了吧.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這個梗太老套了吧.jpg"
+    },
+    {
+      "image_name": "這個負擔很重.jpg",
+      "vector_file": "這個負擔很重.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這個負擔很重.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這個負擔很重.jpg"
+    },
+    {
+      "image_name": "這只是一幅畫像，不是真的人.jpg",
+      "vector_file": "這只是一幅畫像，不是真的人.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這只是一幅畫像，不是真的人.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這只是一幅畫像，不是真的人.jpg"
+    },
+    {
+      "image_name": "這只花了我一年的薪水耶.jpg",
+      "vector_file": "這只花了我一年的薪水耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這只花了我一年的薪水耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這只花了我一年的薪水耶.jpg"
+    },
+    {
+      "image_name": "這可不公平.jpg",
+      "vector_file": "這可不公平.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這可不公平.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這可不公平.jpg"
+    },
+    {
+      "image_name": "這就叫做適者生存.jpg",
+      "vector_file": "這就叫做適者生存.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這就叫做適者生存.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這就叫做適者生存.jpg"
+    },
+    {
+      "image_name": "這就是我們的命運.jpg",
+      "vector_file": "這就是我們的命運.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這就是我們的命運.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這就是我們的命運.jpg"
+    },
+    {
+      "image_name": "這樣是很祕密的哦.jpg",
+      "vector_file": "這樣是很祕密的哦.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這樣是很祕密的哦.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這樣是很祕密的哦.jpg"
+    },
+    {
+      "image_name": "這樣楚河漢界就畫得一清二楚了.jpg",
+      "vector_file": "這樣楚河漢界就畫得一清二楚了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這樣楚河漢界就畫得一清二楚了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這樣楚河漢界就畫得一清二楚了.jpg"
+    },
+    {
+      "image_name": "這樣的話我們需要更多燈光.jpg",
+      "vector_file": "這樣的話我們需要更多燈光.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這樣的話我們需要更多燈光.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這樣的話我們需要更多燈光.jpg"
+    },
+    {
+      "image_name": "這樣看起來危險嗎.jpg",
+      "vector_file": "這樣看起來危險嗎.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這樣看起來危險嗎.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這樣看起來危險嗎.jpg"
+    },
+    {
+      "image_name": "這真是太丟臉了.jpg",
+      "vector_file": "這真是太丟臉了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這真是太丟臉了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這真是太丟臉了.jpg"
+    },
+    {
+      "image_name": "這裡是什麼鬼地方.jpg",
+      "vector_file": "這裡是什麼鬼地方.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這裡是什麼鬼地方.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這裡是什麼鬼地方.jpg"
+    },
+    {
+      "image_name": "這裡誰是醫生啊.jpg",
+      "vector_file": "這裡誰是醫生啊.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這裡誰是醫生啊.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這裡誰是醫生啊.jpg"
+    },
+    {
+      "image_name": "這麼做對我的傷害絕對不會小於對你的傷害.jpg",
+      "vector_file": "這麼做對我的傷害絕對不會小於對你的傷害.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這麼做對我的傷害絕對不會小於對你的傷害.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這麼做對我的傷害絕對不會小於對你的傷害.jpg"
+    },
+    {
+      "image_name": "這麼做才對.jpg",
+      "vector_file": "這麼做才對.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這麼做才對.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這麼做才對.jpg"
+    },
+    {
+      "image_name": "這麼多年來，我只知道我生命中有缺陷.jpg",
+      "vector_file": "這麼多年來，我只知道我生命中有缺陷.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\這麼多年來，我只知道我生命中有缺陷.npy",
+      "vector_dim": 768,
+      "image_path": "data\\這麼多年來，我只知道我生命中有缺陷.jpg"
+    },
+    {
+      "image_name": "連章魚哥都好想你.jpg",
+      "vector_file": "連章魚哥都好想你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\連章魚哥都好想你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\連章魚哥都好想你.jpg"
+    },
+    {
+      "image_name": "違背你自己的良心 那種瞞天大謊話呢.jpg",
+      "vector_file": "違背你自己的良心 那種瞞天大謊話呢.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\違背你自己的良心 那種瞞天大謊話呢.npy",
+      "vector_dim": 768,
+      "image_path": "data\\違背你自己的良心 那種瞞天大謊話呢.jpg"
+    },
+    {
+      "image_name": "那傢伙神經有問題 需要看心理醫生.jpg",
+      "vector_file": "那傢伙神經有問題 需要看心理醫生.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那傢伙神經有問題 需要看心理醫生.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那傢伙神經有問題 需要看心理醫生.jpg"
+    },
+    {
+      "image_name": "那堆垃圾都送給你.jpg",
+      "vector_file": "那堆垃圾都送給你.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那堆垃圾都送給你.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那堆垃圾都送給你.jpg"
+    },
+    {
+      "image_name": "那就是你要做你自己.jpg",
+      "vector_file": "那就是你要做你自己.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那就是你要做你自己.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那就是你要做你自己.jpg"
+    },
+    {
+      "image_name": "那是因為你很少在思考.jpg",
+      "vector_file": "那是因為你很少在思考.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那是因為你很少在思考.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那是因為你很少在思考.jpg"
+    },
+    {
+      "image_name": "那是我們徹底失敗的味道.jpg",
+      "vector_file": "那是我們徹底失敗的味道.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那是我們徹底失敗的味道.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那是我們徹底失敗的味道.jpg"
+    },
+    {
+      "image_name": "那是我所聽過最無趣的爛主意.jpg",
+      "vector_file": "那是我所聽過最無趣的爛主意.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那是我所聽過最無趣的爛主意.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那是我所聽過最無趣的爛主意.jpg"
+    },
+    {
+      "image_name": "那現在你可以在下輩子好好的哭一下了.jpg",
+      "vector_file": "那現在你可以在下輩子好好的哭一下了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那現在你可以在下輩子好好的哭一下了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那現在你可以在下輩子好好的哭一下了.jpg"
+    },
+    {
+      "image_name": "那胖子在跟誰說話.jpg",
+      "vector_file": "那胖子在跟誰說話.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那胖子在跟誰說話.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那胖子在跟誰說話.jpg"
+    },
+    {
+      "image_name": "那隻小松鼠的麻煩大了.jpg",
+      "vector_file": "那隻小松鼠的麻煩大了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那隻小松鼠的麻煩大了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那隻小松鼠的麻煩大了.jpg"
+    },
+    {
+      "image_name": "那麼，也許是因為你太醜了.jpg",
+      "vector_file": "那麼，也許是因為你太醜了.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\那麼，也許是因為你太醜了.npy",
+      "vector_dim": 768,
+      "image_path": "data\\那麼，也許是因為你太醜了.jpg"
+    },
+    {
+      "image_name": "都沒有人瞭解我.jpg",
+      "vector_file": "都沒有人瞭解我.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\都沒有人瞭解我.npy",
+      "vector_dim": 768,
+      "image_path": "data\\都沒有人瞭解我.jpg"
+    },
+    {
+      "image_name": "酷.jpg",
+      "vector_file": "酷.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\酷.npy",
+      "vector_dim": 768,
+      "image_path": "data\\酷.jpg"
+    },
+    {
+      "image_name": "酷耶.jpg",
+      "vector_file": "酷耶.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\酷耶.npy",
+      "vector_dim": 768,
+      "image_path": "data\\酷耶.jpg"
+    },
+    {
+      "image_name": "長官 這個任務可以讓我充滿了希望.jpg",
+      "vector_file": "長官 這個任務可以讓我充滿了希望.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\長官 這個任務可以讓我充滿了希望.npy",
+      "vector_dim": 768,
+      "image_path": "data\\長官 這個任務可以讓我充滿了希望.jpg"
+    },
+    {
+      "image_name": "開轟趴不找最好的朋友.jpg",
+      "vector_file": "開轟趴不找最好的朋友.npy",
+      "vector_path": "C:\\Users\\ben20\\Desktop\\memebot\\vectors\\開轟趴不找最好的朋友.npy",
+      "vector_dim": 768,
+      "image_path": "data\\開轟趴不找最好的朋友.jpg"
+    }
+  ]
+}

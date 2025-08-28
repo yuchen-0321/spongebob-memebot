@@ -1,0 +1,88 @@
+請幫我撰寫一個完整的 Python 程式 semantic_gui.py，使用 PyQt5 建立圖形化使用者介面，整合下列功能：
+
+🧩 使用場景：
+我已經訓練完成一個語意預測模型，可以根據中文輸入文字產生一個 768 維的語意向量。
+現在，我希望透過 PyQt5 製作一個互動介面，讓使用者輸入中文句子後，系統會：
+
+使用訓練好的模型 best_model.pt 預測輸入文字的語意向量
+
+將該向量與 image_vectors.json 中的 500 張圖片語意向量做 Cosine Similarity 比對
+
+找出最相近的一張圖片（如：img123.jpg）
+
+顯示：
+
+使用者輸入的文字
+
+預測匹配的圖片
+
+相似度分數
+
+📁 提供的資料與檔案：
+best_model.pt：已訓練好的 PyTorch 模型（輸入為 token_ids，輸出為 768 維向量）
+
+vocab.json：詞彙表，格式為 {token: index}，其中 <PAD> = 0, <UNK> = 1
+
+image_vectors.json：圖片語意向量對照，格式為 { "img001.jpg": [0.12, -0.03, ...], ... }
+
+圖片實體位置：皆存放於資料夾 ./images/
+
+分詞方法：請使用與訓練相同的斷詞方式（可使用 HanLP）
+
+🧠 程式架構需求：
+請模組化撰寫，分為以下元件：
+
+1. SemanticImageMatcher 類別：
+python
+複製
+編輯
+class SemanticImageMatcher:
+    def __init__(self, model_path, vocab_path, image_vector_path):
+        ...
+    
+    def preprocess(self, text: str) -> List[int]:
+        # 斷詞 → token_ids（固定長度，例如 50，不足補0、超過截斷）
+        ...
+    
+    def predict_vector(self, token_ids: List[int]) -> np.ndarray:
+        # 將 token_ids 輸入模型，輸出 768 維向量
+        ...
+    
+    def find_best_image(self, vector: np.ndarray) -> Tuple[str, float]:
+        # 計算 cosine similarity，回傳最相近圖片檔名與分數
+        ...
+    
+    def run(self, text: str) -> Dict:
+        # 整合以上步驟，回傳 dict 包含 tokens、vector、相似圖名與分數
+        ...
+2. PyQt5 介面：
+一個 QLineEdit 文字框供輸入
+
+一個 QPushButton 按鈕觸發送出
+
+一個 QLabel 顯示圖片
+
+一個 QLabel 顯示文字與相似度
+
+✅ 功能流程：
+使用者輸入文字 → 點擊送出 → 模型預測語意向量 → 找出相似圖片 → 顯示圖片與分數
+
+🖼️ 執行結果展示格式：
+text
+複製
+編輯
+你輸入的是：「我只是想好好說話」
+最佳匹配圖片：img123.jpg
+相似度：0.871
+🖼 圖片顯示於 QLabel 中（使用 QPixmap）
+
+🧪 程式最後執行端：
+python
+複製
+編輯
+if __name__ == "__main__":
+    app = QApplication(sys.argv)
+    window = MainWindow()  # 自訂 GUI 類別
+    window.show()
+    sys.exit(app.exec_())
+請幫我產出完整可執行的 Python 程式碼檔案，命名為 semantic_gui.py。所有函式需註解清楚，並確保邏輯與檔案路徑一致。預設載入 GPU，若無 GPU 則自動切換為 CPU。
