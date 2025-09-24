@@ -302,7 +302,7 @@ class BiLSTMAttention(nn.Module):
 
 ## 作者
 
-- **yuchen-0321** - *初始工作* - [yuchen-0321](https://github.com/yuchen-0321)
+- [yuchen-0321](https://github.com/yuchen-0321)
 
 ## 致謝
 
@@ -316,6 +316,7 @@ class BiLSTMAttention(nn.Module):
 如有任何問題或建議，請聯絡：
 - 📧 Email: lih043689@gmail.com
 - 🔗 GitHub: [@yuchen-0321](https://github.com/yuchen-0321)
+
 
 
 
