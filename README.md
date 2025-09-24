@@ -73,7 +73,7 @@
 ### 模型訓練視覺化分析
 
 #### 訓練收斂分析
-![訓練 vs 驗證損失](training_plots/training_validation_loss.png)
+![訓練 vs 驗證損失](training_plots/loss_curves.png)
 *Training vs Validation Loss - 模型在第 7 個 epoch 達到最佳驗證效果*
 
 **關鍵觀察**:
@@ -85,7 +85,7 @@
 ![t-SNE 語意向量視覺化](training_plots/tsne_visualization.png)
 *t-SNE 降維視覺化預測向量 vs 真實向量的分布關係*
 
-![餘弦相似度分布](training_plots/cosine_similarity_distribution.png)
+![餘弦相似度分布](training_plots/cosine_similarity_distribution_best_epoch.png)
 *最佳 epoch 的餘弦相似度分布 - 平均相似度 0.754*
 
 **品質指標**:
@@ -106,7 +106,7 @@
 - **收斂速度**: 前 10 個 epoch 快速收斂，後續微調優化
 
 #### 向量維度預測精度
-![向量維度預測誤差](training_plots/prediction_error_by_dimension.png)
+![向量維度預測誤差](training_plots/dimension_error_analysis.png)
 *768 維語意向量各維度的預測誤差分析*
 
 **維度分析**:
@@ -115,7 +115,7 @@
 - **穩定預測**: 大部分維度的 MAE 控制在 0.015-0.025 範圍內
 
 #### 計算資源效率
-![訓練時間與 GPU 使用率](training_plots/training_time_gpu_usage.png)
+![訓練時間與 GPU 使用率](training_plots/training_efficiency.png)
 *每個 epoch 的訓練時間與 GPU 記憶體使用情況*
 
 **資源優化**:
@@ -331,6 +331,7 @@ class BiLSTMAttention(nn.Module):
 如有任何問題或建議，請聯絡：
 - 📧 Email: lih043689@gmail.com
 - 🔗 GitHub: [@yuchen-0321](https://github.com/yuchen-0321)
+
 
 
 
